@@ -1,4 +1,4 @@
-**---
+---
 tags:
 - '#type/medicine'
 ---
@@ -36,44 +36,28 @@ Melatonin
 
 # Digestive Aid Cleanse 
 
-## Standard
-| Day  | Tumeric | Fennel  | Betaine | Enzymes | Cascara        |
-| ---- | ------- | ------- | ------- | ------- | -------------- |
-| 1    | 1c x3/d | 1c x3/d | 1c x3/d | 1c x3/d | 1-2c as needed |
-| 2-17 | 2c x3   | 2c x3   | 2c x3   | 1c x2   | no more 1 week |
-
-
-## Intensive
 
 # Parasite Cleanse
 
 On Empty Stomach - At Least **13 Minutes** Before Meal
-| Day   | GrnDrp     | GrnCap    | Blx10      | Blx2      | Wormwd  | Cloves    |
-| ----- | ---------- | --------- | ---------- | --------- | ------- | --------- |
-| 1     | 1d         | 1p/ 30mg  | 2c/ 300mg  | 60mg      | 1 Cap   | 1 x 3/d   |
-| 2     | 2d         | 2p/ 60mg  | 4c/ 600mg  | 120mg     | 1 Cap   | 2 x 3/d   |
-| 3     | 3d         | 3p/ 90mg  | 6c/ 900mg  | 1c/ 180mg | 2 Cap   | 3 x 3/d   |
-| 4     | 4d         | 4p/ 120mg | 8c/ 1200mg | 2c/ 240mg | 2 Cap   | 3 x 3/d   |
-| 5     | 5d         | 1C= 150mg | 10c        | 2c        | 3 Cap   | 3 x 3/d   |
-| 6     | 2tsp/ 200d | 5 Cap     | 50c        | 10c       | 3 Cap   | 3 x 3/d   |
-| 7     | NONE       | NONE      | NONE       | NONE      | 4 Cap   | 3 x 3/d   |
-| 8     | NONE       | NONE      | NONE       | NONE      | 4 Cap   | 3 x 3/d   |
-| 9     | NONE       | NONE      | NONE       | NONE      | 5 Cap   | 3 x 3/d   |
-| 10    | NONE       | NONE      | NONE       | NONE      | 5 Cap   | 3 x 3/d   |
-| 11    | NONE       | NONE      | NONE       | NONE      | 6 Cap   | 7 at once |
-| 12    | NONE       | NONE      | NONE       | NONE      | 6 Cap   | NONE      |
-| 13    | 2tsp/ 200d | 5 Cap     | 50c        | 10c       | 7 Cap   | NONE      |
-| 14    | NONE       | NONE      | NONE       | NONE      | 7 Cap   | NONE      |
-| 15    | NONE       | NONE      | NONE       | NONE      | 7 Cap   | NONE      |
-| 16    | NONE       | NONE      | NONE       | NONE      | 7 Cap   | NONE      |
-| 17    | NONE       | NONE      | NONE       | NONE      | NONE    | NONE      |
-| 18    | NONE   | NONE      | NONE       | NONE      | NONE    | 7 Cap     |
-| Total | 415 Drops  | 14 Caps   |            |           | 70 Caps | 95 Caps   |
-
-## TapeParaKil Oil
-
-On Empty Stomach - At Least **13 Minutes** Before Meal
-3 Days - 14 Drops 2 times a day 
-
-Ingredients
-- 
+| Day   | Green Walnut |  Black Walnut   | Wormwood | Cloves    |
+| ----- | ------------ | --- | -------- | --------- |
+| 1     | 1 Pinch      |     | 1 Cap    | 1 x 3/d   |
+| 2     | 2 Pinch      |     | 1 Cap    | 2 x 3/d   |
+| 3     | 3 Pinch      |     | 2 Cap    | 3 x 3/d   |
+| 4     | 4 Pinch      |     | 2 Cap    | 3 x 3/d   |
+| 5     | 1 Cap        |     | 3 Cap    | 3 x 3/d   |
+| 6     | 5 Cap        |     | 3 Cap    | 3 x 3/d   |
+| 7     | **NONE**     |     | 4 Cap    | 3 x 3/d   |
+| 8     | **NONE**     |     | 4 Cap    | 3 x 3/d   |
+| 9     | **NONE**     |     | 5 Cap    | 3 x 3/d   |
+| 10    | **NONE**     |     | 5 Cap    | 3 x 3/d   |
+| 11    | **NONE**     |     | 6 Cap    | 7 at once |
+| 12    | **NONE**     |     | 6 Cap    | **NONE**  |
+| 13    | 5 Cap        |     | 7 Cap    | **NONE**  |
+| 14    | **NONE**     |     | 7 Cap    | **NONE**  |
+| 15    | **NONE**     |     | 7 Cap    | **NONE**  |
+| 16    | **NONE**     |     | 7 Cap    | **NONE**  |
+| 17    | **NONE**     |     | **NONE** | **NONE**  |
+| 18    | **NONE**     |     | **NONE** | 7 Cap     |
+| Total | 14 Caps      |     | 70 Caps  | 95 Caps   |
