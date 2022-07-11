@@ -23,6 +23,41 @@ tags:
 | Liver (16)       |     |     |     |     |     |     |     |     | 2   |     |     | 2   | 
 | Heavy Metal (90) |     |     |     |     |     |     |     |     |     |     |     |     |
 
+# Sleep Aid during Cleanses
+Ornithine
+	Helps beutralize ammonia/uric acid
+Melatonin
+| Day | Caps |
+| --- | ---- |
+| 1   | 2    |
+| 2   | 4    |
+| 3   | 6    |
+| 4+  | 6-8  |
 
 # Digestive Aid Cleanse 
 
+
+# Parasite Cleanse
+
+On Empty Stomach - At Least **13 Minutes** Before Meal
+| Day   | Green Walnut |  Black Walnut   | Wormwood | Cloves    |
+| ----- | ------------ | --- | -------- | --------- |
+| 1     | 1 Pinch      |     | 1 Cap    | 1 x 3/d   |
+| 2     | 2 Pinch      |     | 1 Cap    | 2 x 3/d   |
+| 3     | 3 Pinch      |     | 2 Cap    | 3 x 3/d   |
+| 4     | 4 Pinch      |     | 2 Cap    | 3 x 3/d   |
+| 5     | 1 Cap        |     | 3 Cap    | 3 x 3/d   |
+| 6     | 5 Cap        |     | 3 Cap    | 3 x 3/d   |
+| 7     | **NONE**     |     | 4 Cap    | 3 x 3/d   |
+| 8     | **NONE**     |     | 4 Cap    | 3 x 3/d   |
+| 9     | **NONE**     |     | 5 Cap    | 3 x 3/d   |
+| 10    | **NONE**     |     | 5 Cap    | 3 x 3/d   |
+| 11    | **NONE**     |     | 6 Cap    | 7 at once |
+| 12    | **NONE**     |     | 6 Cap    | **NONE**  |
+| 13    | 5 Cap        |     | 7 Cap    | **NONE**  |
+| 14    | **NONE**     |     | 7 Cap    | **NONE**  |
+| 15    | **NONE**     |     | 7 Cap    | **NONE**  |
+| 16    | **NONE**     |     | 7 Cap    | **NONE**  |
+| 17    | **NONE**     |     | **NONE** | **NONE**  |
+| 18    | **NONE**     |     | **NONE** | 7 Cap     |
+| Total | 14 Caps      |     | 70 Caps  | 95 Caps   |
