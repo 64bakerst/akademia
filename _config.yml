@@ -44,5 +44,5 @@ defaults:
     values:
       layout: "note"
       
-markdown: CommonMark
+
 
