@@ -48,6 +48,11 @@ tags: #type/medicine
 
 # Parasite Cleanse
 
+##### Summary
+- Black Walnut Hull - 250mg 3x daily
+- Wormwood - 200mg 3x daily
+- Oregano Oil - 500mg 4x daily
+
 On Empty Stomach - At Least **13 Minutes** Before Meal
 
 | Day   | GrnDrp     | GrnCap    | Blx10      | Blx2      | Wormwd  | Cloves    |
