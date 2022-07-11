@@ -38,6 +38,7 @@ tags:
 # Digestive Aid Cleanse 
 
 ## Standard
+
 | Day  | Tumeric | Fennel  | Betaine | Enzymes | Cascara        |
 | ---- | ------- | ------- | ------- | ------- | -------------- |
 | 1    | 1c x3/d | 1c x3/d | 1c x3/d | 1c x3/d | 1-2c as needed |
@@ -75,7 +76,15 @@ On Empty Stomach - At Least **13 Minutes** Before Meal
 ## TapeParaKil Oil
 
 On Empty Stomach - At Least **13 Minutes** Before Meal
+
 3 Days - 14 Drops 2 times a day 
 
 Ingredients
+- Thyme
+- Cardamom seed
+- caraway seed
+- fennel seed
+- all spice
+- nutmeg
+- juniper berry
 - 
