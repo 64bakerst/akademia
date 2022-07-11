@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Home.md",
+            "file": "Parasite Cleanse.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "286b52a301930d9e",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Parasite Cleanse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Parasite Cleanse.md"
               }
             }
           },
@@ -163,7 +164,6 @@
   },
   "active": "32d3b0a5c140919e",
   "lastOpenFiles": [
-    "Home.md",
     "Parasite Cleanse.md",
     "Conversions.md",
     "consistency.md",
@@ -172,6 +172,7 @@
     "your-first-note.md",
     "Special Pages/Tags/Tags.md",
     "Special Pages/Contents.md",
-    "Special Pages/Tags/Level/level fitness.md"
+    "Special Pages/Tags/Level/level fitness.md",
+    "Special Pages/z_Tags.md"
   ]
 }
