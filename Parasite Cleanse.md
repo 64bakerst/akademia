@@ -24,15 +24,14 @@ tags:
 | Heavy Metal (90) |     |     |     |     |     |     |     |     |     |     |     |     |
 
 # Sleep Aid during Cleanses
-- Ornithine
-	- Helps beutralize ammonia/uric acid
-- Melatonin
-
+Ornithine
+	Helps beutralize ammonia/uric acid
+Melatonin
 | Day | Caps |
 | --- | ---- |
 | 1   | 2    |
 | 2   | 4    |
-| 3   | 6    | 
+| 3   | 6    |
 | 4+  | 6-8  |
 
 # Digestive Aid Cleanse 
@@ -49,7 +48,6 @@ tags:
 # Parasite Cleanse
 
 On Empty Stomach - At Least **13 Minutes** Before Meal
-
 | Day   | GrnDrp     | GrnCap    | Blx10      | Blx2      | Wormwd  | Cloves    |
 | ----- | ---------- | --------- | ---------- | --------- | ------- | --------- |
 | 1     | 1d         | 1p/ 30mg  | 2c/ 300mg  | 60mg      | 1 Cap   | 1 x 3/d   |
@@ -69,7 +67,7 @@ On Empty Stomach - At Least **13 Minutes** Before Meal
 | 15    | NONE       | NONE      | NONE       | NONE      | 7 Cap   | NONE      |
 | 16    | NONE       | NONE      | NONE       | NONE      | 7 Cap   | NONE      |
 | 17    | NONE       | NONE      | NONE       | NONE      | NONE    | NONE      |
-| 18    | NONE       | NONE      | NONE       | NONE      | NONE    | 7 Cap     |
+| 18    | NONE   | NONE      | NONE       | NONE      | NONE    | 7 Cap     |
 | Total | 415 Drops  | 14 Caps   |            |           | 70 Caps | 95 Caps   |
 
 ## TapeParaKil Oil
