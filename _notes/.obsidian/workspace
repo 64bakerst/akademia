@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "db3617070ac24405",
+    "type": "split",
+    "children": [
+      {
+        "id": "32d3b0a5c140919e",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "e9579a7f18b5f00e",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27310b44f4de8f01",
+    "type": "split",
+    "children": [
+      {
+        "id": "25fa2fa290f75e9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a15f8356ae9ae226",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d08743cbb7ebcec3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#type/medicine",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6423dc66bc8c3891",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "c066e82572b05832",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "286b52a301930d9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5b727cb047d9864",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43490b6a19d1ff05",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf1e57c442d0386c",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "a76e8f73e1667c22",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "61045e4fd4ac8211",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e8bb3e126aa261df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "f2d4996bdf136f1a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "32d3b0a5c140919e",
+  "lastOpenFiles": [
+    "Parasite Cleanse.md",
+    "Home.md",
+    "Conversions.md",
+    "consistency.md",
+    "move your body every day.md",
+    "안녕하세요.md",
+    "your-first-note.md",
+    "Special Pages/Tags/Tags.md",
+    "Special Pages/Contents.md",
+    "Special Pages/Tags/Level/level fitness.md"
+  ]
+}
