@@ -7,16 +7,24 @@
         "id": "32d3b0a5c140919e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Parasite Cleanse.md",
+            "mode": "source",
+            "source": false
+          }
         }
       },
       {
         "id": "e9579a7f18b5f00e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Conversions.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -89,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Parasite Cleanse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Parasite Cleanse.md"
+              }
             }
           },
           {
