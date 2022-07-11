@@ -1,5 +1,13 @@
 ---
-tag: ['Special-Page']
-child: '[[Level]]' 
-child: '[[Area of Interest|Area]]'
+tag: ['SpecialPage']
+child: 
+- '[[Level]]' 
+- '[[Area of Interest]]'
 ---
+
+
+```breadcrumbs
+type:tree
+dir:down
+title:false
+```
