@@ -58,11 +58,11 @@ GRAPH_OPTIONS = """
         	},
         	edges: {
         		color: { inherit: "both" },
-        		width: 0.2,
+        		width: 0.8,
         		smooth: {
         			type: "continuous",
         		},
-        		hoverWidth: 1,
+        		hoverWidth: 4,
         	},
         	interaction: {
         		hover: true,
