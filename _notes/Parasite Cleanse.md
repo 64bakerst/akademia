@@ -1,6 +1,5 @@
 ---
-tags:
-- '#type/medicine'
+tags: #type/medicine 
 ---
 
 1. Digestive Aid Cleanse
@@ -79,7 +78,7 @@ On Empty Stomach - At Least **13 Minutes** Before Meal
 
 3 Days - 14 Drops 2 times a day 
 
-Ingredients
+Ingredients - Essential Oils
 - Thyme
 - Cardamom seed
 - caraway seed
