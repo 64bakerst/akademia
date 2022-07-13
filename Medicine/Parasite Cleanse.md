@@ -1,6 +1,7 @@
 ---
-tags: '#type/medicine'
+parent: '[[Medicine]]'
 ---
+#medicine #parasite #coconut #papaya #clove #wormwood #blackwalnuthull 
 
 1. Digestive Aid Cleanse
 2. Parasite Cleanse
@@ -13,13 +14,17 @@ tags: '#type/medicine'
 	2. 2 Weeks between Flushes
 6. Heavy Metal Cleanse
 
+```toc
+```
+
+# General Program
 | Week             | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  |
 | ---------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Dig Aid (17)     | 7   | 7   | 3   |     |     |     |     |     |     |     |     |     |
 | Parasite (18)    | 7   | 7   | 4   | 1   | 1   | 1   | 1   | 1   |     | 1   | 1   |     |
 | Candida (14)     |     |     |     | 7   | 7   |     |     |     |     |     |     |     |
 | Kidney (21)      |     |     |     |     |     | 7   | 7   | 7   |     |     |     |     |
-| Liver (16)       |     |     |     |     |     |     |     |     | 2   |     |     | 2   | 
+| Liver (16)       |     |     |     |     |     |     |     |     | 2   |     |     | 2   |
 | Heavy Metal (90) |     |     |     |     |     |     |     |     |     |     |     |     |
 
 # Sleep Aid during Cleanses
@@ -34,6 +39,7 @@ tags: '#type/medicine'
 | 3   | 6    | 
 | 4+  | 6-8  |
 
+
 # Digestive Aid Cleanse 
 
 - Tumeric - 500mg
@@ -42,7 +48,7 @@ tags: '#type/medicine'
 - Bataine HCL - 425mg
 - Digestives Enzyms - 700mg - Ginger root, pancreatin, pepsin, lipase, trypsin, bromelain, papain
 
-## Standard
+## Standard Schedule
 
 | Day  | Tumeric | Fennel  | Betaine | Enzymes | Cascara        |
 | ---- | ------- | ------- | ------- | ------- | -------------- |
@@ -50,7 +56,9 @@ tags: '#type/medicine'
 | 2-17 | 2c x3   | 2c x3   | 2c x3   | 1c x2   | no more 1 week |
 
 
-## Intensive
+## Intensive Schedule
+
+
 
 # Parasite Cleanse
 
@@ -145,9 +153,29 @@ Ingredients - Essential Oils
 
 ### High Dose
 
-| Week | BkWnt Drops | BkWt Caps | Wrmwd | Cloves |
-| ---- | ----------- | --------- | ----- | ------ |
-|      |             |           |       |        |
+#### Timing
+- Every 2-3 months
+- For 3-5 weeks
+- For 3-5 days in a row
+
+#### Components
+- Black Walnut Drops 2.5oz - 10ml/serving, 
+- *OR* Black Walnut Capsules - 25c @360mg/c
+- Wormwood - 175c @330mg/c
+- Cloves - 225c @500mg/c
+- Ornithine - 200c @500mg/c
+
+#### Schedule
+| Week      | BkWnt Drops  | BkWt Caps | Wrmwd    | Cloves    | Ornithine |
+| --------- | ------------ | --------- | -------- | --------- | --------- |
+| 1-3       | 30d x2/day   | 1c/day    | 7c @once | 3c 3x/day | 1-8c      |
+| After 3   | stop         | if feel   | no side  | effects   |           |
+| 4-5       | 30d x2/day   | 1c/day    | 7c @once | 3c 3x/day | 1-8c      |
+| total/day | 60d/day      | 1c        | 7c       | 9c        | 1-8c      |
+| t/wk@5d   | 300d =.5oz   | 5c        | 35c      | 45c       | 5-40c     |
+| t/3wk@5d  | 900d =1.5oz  | 15c       | 105c     | 135c      | 15-120c   |
+| t/5wk@5d  | 1500d =2.5oz | 25c       | 175c     | 225c      | 25c-200c          |
+
 
 
 

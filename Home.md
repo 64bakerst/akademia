@@ -1,5 +1,9 @@
 This is Home
-Contents go here
+
+
+
+- Prevention - Offensive - Proactive
+- Curing - Defensive - Reactive
 
 
 ![[Contents]]
