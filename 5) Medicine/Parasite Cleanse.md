@@ -70,21 +70,21 @@ parent: '[[Medicine]]'
 # Parasite Cleanse
 
 ##### Summary
-- [[Clove]] Oil - Kills the Eggs, Start with Cloves - 2 glasses of water
+- **[[Clove]] Oil** - Kills the Eggs, Start with Cloves - 2 glasses of water
 	- Raw - crush or grind up half a dozen, stir them into a small glass of water and then quickly drink them down
 	- Capsules - 500mg 4x daily
 	- Powder - 4 cups of tea
 	- Drops - 20 drops of clove tincture into water
-		- 30ml for 11.38 - https://www.iherb.com/pr/herb-pharm-clove-1-fl-oz-30-ml/13432
-- Black Walnut Hull - half an hour after the cloves
+		- 30ml for 11.38 - [iHerb](https://www.iherb.com/pr/herb-pharm-clove-1-fl-oz-30-ml/13432)
+- **Black Walnut Hull** - half an hour after the cloves
 	- Capsule - 250mg 3x daily as Capsule
 	- Drops - 30 drops
-		- 30ml for 9.87 - https://www.iherb.com/pr/herb-pharm-black-walnut-1-fl-oz-30-ml/11751 
-- Wormwood - half an hour after the cloves
+		- 30ml for 9.87 - [iHerb](https://www.iherb.com/pr/herb-pharm-black-walnut-1-fl-oz-30-ml/11751) 
+- **Wormwood** - half an hour after the cloves
 	- Capsules - 200mg 3x daily
 	- Drops -  20 drops
-		- 30ml for 13.42 - https://www.iherb.com/pr/herb-pharm-wormwood-1-fl-oz-30-ml/14720
-- Oregano Oil - 
+		- 30ml for 13.42 - [iHerb](https://www.iherb.com/pr/herb-pharm-wormwood-1-fl-oz-30-ml/14720)
+- **Oregano Oil** - 
 	- Capsules - 500mg 4x daily (Capsules, not liquid, as 500mg = 10,000 drops = 16 ounces) 
 	- Drops - 
 - Sage
