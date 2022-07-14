@@ -19,17 +19,18 @@ Category
     - [[Desalination]]
     - [[Collection]]
     - [[Purification]]
-    - [[Filtration 1]]
+    - [[Filtration]]
   - [[Food]]
-  - [[For Energy]]
+  - [[Energy]]
   - [[Shelter]]
   - [[Medicine]]
   - [[First Aid]]
   - [[Tools]]
   - [[Navigation & Time]]
   - [[Equipment]]
-  - [[Building]]
   - [[Clothing]]
+  - [[Building]]
+  - 
 
 
 
