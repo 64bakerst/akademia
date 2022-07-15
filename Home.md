@@ -1,9 +1,26 @@
 This is Home
 
+### Updates
+
+--start--
+CreatedFiles
 
 
-- Prevention - Offensive - Proactive
-- Curing - Defensive - Reactive
+
+DeletedFiles
+
+
+
+ModifiedFiles
+
+- [[Home.md]]
+
+
+--end--
+
+
+- Prevention = Offensive = Proactive
+- Curing = Defensive = Reactive
 
 [[Contents]]
 ![[Contents]]

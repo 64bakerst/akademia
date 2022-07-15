@@ -42,11 +42,11 @@ parent: '[[Medicine]]'
 
 # Digestive Aid Cleanse 
 
-- Tumeric - 500mg/c
-- Fennel Seed - 500mg/c
-- Bataine HCL - 425mg/c
-- Digestives Enzymes - 700mg/c - Ginger root, pancreatin, pepsin, lipase, trypsin, bromelain, papain
-- Cascara Sagrada - 425mg/c
+- **Tumeric** - 500mg/c
+- **Fennel Seed** - 500mg/c
+- **Bataine HCL** - 425mg/c
+- **Digestives Enzymes** - 700mg/c - Ginger root, pancreatin, pepsin, lipase, trypsin, bromelain, papain
+- **Cascara Sagrada** - 425mg/c
 
 ## Standard Schedule
 

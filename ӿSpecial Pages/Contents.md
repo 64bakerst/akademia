@@ -1,36 +1,18 @@
+---
+child: 
+- '[[Category]]'
+- '[[Resources]]'
+- '[[Glossary]]'
+---
 
 
-Resources
-- [[Volume Conversions]]
+```breadcrumbs
+type:tree
+dir:down
+title:false
+```
 
-Category
-- [[Level]]
-  - [[Survival]]
-  - [[Basics]]
-  - [[Nomadic]]
-  - [[Householding]]
-  - [[Homesteading]]
-  - [[Terratory]]
-  - [[Self-Dev]]
-  - [[Fitness]]
-  - [[Wellness]]
-- [[Area of Interest]]
-  - [[Water]]
-    - [[Desalination]]
-    - [[Collection]]
-    - [[Purification]]
-    - [[Filtration]]
-  - [[Food]]
-  - [[Energy]]
-  - [[Shelter]]
-  - [[Medicine]]
-  - [[First Aid]]
-  - [[Tools]]
-  - [[Navigation & Time]]
-  - [[Equipment]]
-  - [[Clothing]]
-  - [[Building]]
-  - 
+
 
 
 
