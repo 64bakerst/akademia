@@ -40,32 +40,7 @@ parent: '[[Medicine]]'
 | 4+  | 6-8  |
 
 
-# Digestive Aid Cleanse 
-
-- **Tumeric** - 500mg/c
-- **Fennel Seed** - 500mg/c
-- **Bataine HCL** - 425mg/c
-- **Digestives Enzymes** - 700mg/c - Ginger root, pancreatin, pepsin, lipase, trypsin, bromelain, papain
-- **Cascara Sagrada** - 425mg/c
-
-## Standard Schedule
-
-| Day   | Tumeric | Fennel  | Betaine | Enzymes | Cascara             |
-| ----- | ------- | ------- | ------- | ------- | ------------------- |
-| 1     | 1c x3/d | 1c x3/d | 1c x3/d | 1c x3/d | 1-2c as needed      |
-| 2-17  | 2c x3   | 2c x3   | 2c x3   | 1c x3/d   | no more than 1 week |
-| Total | 99c     | 99c     | 99c     | 51c     | 14c                    |
-
-
-## Intensive Schedule
-
-| Day           | Tumeric | Fennel  | Betaine | Enzymes | Cascara             |
-| ------------- | ------- | ------- | ------- | ------- | ------------------- |
-| 1             | 1c x3/d | 1c x3/d | 1c x3/d | 1c x3/d | 1-2c as needed      |
-| 2             | 2c x3   | 2c x3   | 2c x3   | 1c x3   |                     |
-| 3-7           | 3c x3   | 3c x3   | 3c x3   | 1c x3   | no more than 1 week |
-| 8-12 optional | 3c x3   | 3c x3   | 3c x3   | 1c x3   |                     |
-| Total         | 45c-90c | 45c-90c | 45c-90c | 36c     | 14c                 |
+[[Digestive Aid Cleanse]]
 
 # Parasite Cleanse
 
@@ -73,17 +48,31 @@ parent: '[[Medicine]]'
 - **[[Clove]] Oil** - Kills the Eggs, Start with Cloves - 2 glasses of water
 	- Raw - crush or grind up half a dozen, stir them into a small glass of water and then quickly drink them down
 	- Capsules - 500mg 4x daily
-	- Powder - 4 cups of tea
+	- Powder for tea - 4 cups of tea (??)
+	- Powder 
+		- 500mg = 1/8tsp
+		- 1500mg (3c) = 1/2tsp
+		- 3000mg (6c) = 1tsp
+		- 4500mg (9c) = 1.5tsp
 	- Drops - 20 drops of clove tincture into water
 		- 30ml for 11.38 - [iHerb](https://www.iherb.com/pr/herb-pharm-clove-1-fl-oz-30-ml/13432)
 - **Black Walnut Hull** - half an hour after the cloves
-	- Capsule - 250mg 3x daily as Capsule
+	- Capsule - 250mg 3x daily as Capsule or 150mg/c as per Dr Clark (because her powder is from Green Black Walnut Hull, more potent)
 	- Drops - 30 drops
 		- 30ml for 9.87 - [iHerb](https://www.iherb.com/pr/herb-pharm-black-walnut-1-fl-oz-30-ml/11751) 
-- **Wormwood** - half an hour after the cloves
+	- Powder - Same as Wormwood
+		- 250mg = 1/8 tsp
+		- 500mg = 1/4 tsp
+		- 750mg ~1/2 tsp
+- **[[Wormwood]]** - half an hour after the cloves - **No more than 3 grams per day**
 	- Capsules - 200mg 3x daily
 	- Drops -  20 drops
 		- 30ml for 13.42 - [iHerb](https://www.iherb.com/pr/herb-pharm-wormwood-1-fl-oz-30-ml/14720)
+	- Powder
+		- 250mg (Per Dr Clark schedule) - 1/8 teaspoon
+		- 500mg = 1/4 teaspoon
+		- 1g = 1/2 teaspoon
+		- 1.75 = 1 & 1/8 (1.1) teaspoon ~ a little over 1 teaspoon 
 - **Oregano Oil** - 
 	- Capsules - 500mg 4x daily (Capsules, not liquid, as 500mg = 10,000 drops = 16 ounces) 
 	- Drops - 
@@ -92,6 +81,8 @@ parent: '[[Medicine]]'
 - Grapefruit Seed Extract - as directed
 - Probiotics
 - Manuka
+
+### Dr. Clark's Schedule
 
 On Empty Stomach - At Least **13 Minutes** Before Meal
 
@@ -102,15 +93,15 @@ On Empty Stomach - At Least **13 Minutes** Before Meal
 | 2     | 2drop      | 2p= 60mg      | 120mg     | 1 Cap         | 2 x 3/d       |
 | 3     | 3drop      | 3p= 90mg      | 1c= 180mg | 2c= 500mg     | 3=1.5g x 3/d  |
 | 4     | 4drop      | 4p= 120mg     | 2c= 240mg | 2 Cap         | 3 x 3/d       |
-| 5     | 5drop      | 1c= 150mg     | 2c        | 3c= 1g        | 3 x 3/d       |
+| 5     | 5drop      | 1c= 150mg     | 2c        | 3c= .75g        | 3 x 3/d       |
 | 6     | 2tsp= 600d | 5c= 750mg     | 10c       | 3 Cap         | 3 x 3/d       |
-| 7     | NONE       | NONE          | NONE      | 4c= 1.5g      | 3 x 3/d       |
+| 7     | NONE       | NONE          | NONE      | 4c= 1g      | 3 x 3/d       |
 | 8     | NONE       | NONE          | NONE      | 4 Cap         | 3 x 3/d       |
-| 9     | NONE       | NONE          | NONE      | 5c= 2g        | 3 x 3/d       |
+| 9     | NONE       | NONE          | NONE      | 5c= 1.25g        | 3 x 3/d       |
 | 10    | NONE       | NONE          | NONE      | 5 Cap         | 3 x 3/d       |
-| 11    | NONE       | NONE          | NONE      | 6c= 2.5g      | 7 at once =3.5g     |
+| 11    | NONE       | NONE          | NONE      | 6c= 1.5g      | 7 at once =3.5g     |
 | 12    | NONE       | NONE          | NONE      | 6 Cap         | NONE          |
-| 13    | 2tsp= 600d | 5 Cap         | 10c       | 7c= 3g        | NONE          |
+| 13    | 2tsp= 600d | 5 Cap         | 10c       | 7c= 1.75g        | NONE          |
 | 14    | NONE       | NONE          | NONE      | 7 Cap         | NONE          |
 | 15    | NONE       | NONE          | NONE      | 7 Cap         | NONE          |
 | 16    | NONE       | NONE          | NONE      | 7 Cap         | NONE          |
@@ -119,6 +110,36 @@ On Empty Stomach - At Least **13 Minutes** Before Meal
 | Total | 1215 Drops /61ml | 14 Caps       |           | 70 Caps       | 95 Caps       |
 [Source](https://drclarkstore.com/pages/parasite-cleanse-instructions/) [Source PDF](https://cdn.shopify.com/s/files/1/0573/9000/6443/files/Para_Cleanse_Instructions_2021.pdf?v=1639589477) [[Para_Cleanse_Instructions_2021.pdf]]
 
+### Another Schedule
+
+#### Per Day Schedule
+Week 1 & 2
+| Day    | Blck Wlnt | Wrmwd | Cloves  |
+| ------ | --------- | ----- | ------- |
+| 1 & 8  | 2c x3/d   | 2c    | 2c x3/d |
+| 2 & 9  | 2c x3/d   | 4c    | 2c x3/d |
+| 3 & 10 | 2c x3/d   | 6c    | 2c x3/d |
+| 4 & 11 | 2c x3/d   | 8c    | 2c x3/d |
+| 5 & 12 | 2c x3/d   | 10c    | 2c x3/d |
+| 6 & 13 | 2c x3/d   | 12c    | 2c x3/d |
+| 7 & 14 | 2c x3/d   | 14c    | 2c x3/d |
+Week 3 - Break
+Week 4 & 5 - Same as Week 1 & 2
+Week 6 - Break
+Week 7 & 8 - Same as Week 1 & 2
+Week 9 - Break
+Week 10 & 11 - Same as Week 1 & 2
+Week 12 - Break/Stop
+
+#### Per Week Schedule
+| Month | Week        | Week        | Week        | Week        |
+| ----- | ----------- | ----------- | ----------- | ----------- |
+| 1     | 1           | 2           | 3           | 4           |
+|       | **Cleanse** | **Cleanse** | Break       | **Cleanse** |
+| 2     | 5           | 6           | 7           | 8           |
+|       | **Cleanse** | Break       | **Cleanse** | **Cleanse** |
+| 3     | 9           | 10          | 11          | 12          |
+|       | Break       | **Cleanse** | **Cleanse** | Break/Stop            |
 
 
 ## Raz-Caps
@@ -168,7 +189,7 @@ Ingredients - Essential Oils
 #### Components
 - Black Walnut Drops 2.5oz - 10ml/serving, 
 - *OR* Black Walnut Capsules - 25c @360mg/c
-- Wormwood - 175c @330mg/c
+- [[Wormwood]] - 175c @330mg/c - No more than 3 grams per day
 - Cloves - 225c @500mg/c
 - Ornithine - 200c @500mg/c
 
@@ -252,22 +273,21 @@ Ingredients - Essential Oils
 
 ## Herbs
 
-### #Wormwood
+### #Wormwood - [[Wormwood|See More]]
 
-##### Effects
-- as sesquiterpene lactones, which weakens the parasite’s membrane making them confused and weak
-- Beats Malaria - Artemisinin is an extract isolated from Wormwood - the most powerful antimalarial on the market.  it reacts with the high levels of iron in the parasite to produce free radicals. The free radicals then destroy the cell walls of the malaria parasite. [~](https://draxe.com/nutrition/wormwood/)
-- Fights Cancer Cells - artemisinin can battle iron-enriched breast cancer cells similar to the way it eliminates malaria-causing parasites. Cancer cells can also be rich in iron since they commonly soak it up to facilitate cell division. The normal cells showed little change, but within 16 hours, almost all of the cancer cells were dead and only a few normal cells were killed.
-- 
+**-   Do not take more than  3 grams or 60 tincture drops of wormwood per day.**
+![[Wormwood#^waslur]]
 ##### Recipe
 ###### Tea
-- Steep a half teaspoon to one teaspoon of dried or fresh wormwood in one cup of boiling water for five to 15 minutes.
+- Steep 1/2 to 1 teaspoon of dried or fresh wormwood in one cup/250ml of boiling water for five to 15 minutes.
 - It’s important that you use no more than one teaspoon of the leaves as they’re very strong and bitter. Longer steep time will make for a stronger wormwood tea, but also a more bitter tea.
-- Wormwood tea should be taken unsweetened to have the best effect, but you can counter the bitterness by adding dried peppermint or anise.
+- Wormwood tea should be taken unsweetened to have the best effect, but you can counter the bitterness by adding dried peppermint, anise, honey, or lemon juice.
 
 
-- #Clove
-	- help break down the protective coating that cover intestinal worm eggs
+### #Clove
+- helps break down the protective coating that cover intestinal worm eggs
+
+
 ### #Thyme
 - Effects
 - Recipes
