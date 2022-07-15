@@ -11,15 +11,22 @@ title:false
 
 
 # [[Collection]]
-## Rainwater
-## From Air
+### Rainwater
+in progress
+### From Air
+in progress
 
+---
 
 # [[Distillation]]
-## Regular
-## Desalination
+### Regular
+in progress
+### Desalination
+in progress
 
-## To Make Drinkable
+---
+
+# To Make Drinkable
 - Disinfection - To remove parasites
 		- Filter - 1micron or smaller with a cyst rating of NSF53 or 58 certification
 		- UV-C - Water must be clear, let any particles settle before treating
@@ -29,11 +36,13 @@ title:false
 	- Chlorine/Bleach
 		- 5.25% sodium hypochlorite
 		- 2 drops = .1ml per 1 litre
-- [[Filtration 1]]
-	-
+- [[Filtration]]
 	- Carbon/Charcoal
+		- Berkey
 	- Chemicals
 	- Flouride
+		- Berkey
 - Final disinfection
 	- UV-C
+		- Larq
 - Re-mineralize
