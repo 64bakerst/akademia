@@ -1,7 +1,7 @@
 
 
 parent:: [[Nutrition]]
-sibling:: [[Energy - Fruits]], [[Fats]], [[Building Blocks - Minerals]], [[Grounding - Vegetables]]
+sibling:: [[Energy - Fruits]], [[Storage - Fats]], [[Building Blocks - Minerals]], [[Grounding - Vegetables]]
 
 
 ---

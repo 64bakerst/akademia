@@ -1,16 +1,12 @@
+
+parent::[[Area of Interest]]
+child:: [[Building Blocks - Minerals]], [[Recipe]], [[Storage - Fats]], [[Grounding - Vegetables]], [[Cell Structure - Protein]] 
+
 ---
-parent: '[[Area of Interest]]'
-child: 
-- '[[Minerals]]'
-- '[[Recipe]]'
-- '[[Fats]]'
-- 
----
-#food
 
 
 - [[Cell Structure - Protein]] & Amino Acids - Nuts & Seeds + Sprouts & Legumes
-- [[Fats]] & Oil
+- [[Storage - Fats]] & Oil
 - [[Grounding - Vegetables]] - Vegetables
 - [[Energy - Fruits]] - Fruits
 - [[Medicine]] - Herbs, Microgreens, Juicing Greens + Sea weed & Nutritional yeast
@@ -22,5 +18,3 @@ child:
 - [[Building Blocks - Minerals]]
   - [[Iodine]]
   - [[Calcium]]
-- [[Recipe]]
-  - [[For Energy]]

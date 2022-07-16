@@ -11,6 +11,7 @@ next:: [[Candida Cleanse]]
 
 ![[Cleanses#Sleep Aid during Cleanses]]
 
+# The Cleanse
 
 ## Pre-Made Kits
 
@@ -164,9 +165,12 @@ Ingredients - Essential Oils
 
 # Maintenance - After Main Parasite Cleanse
 
-### Regular
+## Regular
+ ***in progress***
 
-### High Dose
+
+## High Dose
+
 
 #### Timing
 - Every 2-3 months
@@ -195,15 +199,18 @@ Ingredients - Essential Oils
 
 
 # General Foods
+
+
 ## Seeds
-- #Pumpkin_Seeds - 1 cup daily
-	- Contains compound cucurbitins - paralyze worms, prevent them from holding on to the intestinal walls so they can be easily be removed during a bowel movement.
-	- [Pumpkin seeds paralyze worms](https://superfoodprofiles.com/pumpkin-seeds-parasites-intestinal-worms "Pumpkin Seeds and Parasites – Getting Rid of Human Intestinal Worms with Pumpkin Seeds") in the lower intestine and add to the effectiveness of the papaya seed actions.
-	-  one of the richest natural sources of magnesium
-		- a magnesium-deficient diet is associated with higher intestinal inflammation. This diet also led to a decline in the quantity of _bifidobacteria_, a crucial species of the human microbiome that is responsible for everything from producing B vitamins to protecting the gut from harmful pathogens.
-- #Sunflower_Seeds 
-	- flush out parasites by [preventing successful germination or penetration](http://www.ncbi.nlm.nih.gov/pubmed/11604462) of the parasite to the host system.
-	- naturally rich in vitamin E, and research finds that vitamin E can help improve immune resistance to nematode infection in livestock. ([16](https://web.uri.edu/sheepngoat/vitamine/), [17](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5622016/))
+
+#### [[Pumpkin Seeds]] - 1 cup daily
+- Contains compound cucurbitins - paralyze worms, prevent them from holding on to the intestinal walls so they can be easily be removed during a bowel movement.
+-  one of the richest natural sources of magnesium
+	- a magnesium-deficient diet is associated with higher intestinal inflammation. This diet also led to a decline in the quantity of _bifidobacteria_, a crucial species of the human microbiome that is responsible for everything from producing B vitamins to protecting the gut from harmful pathogens.
+- [Pumpkin seeds paralyze worms](https://superfoodprofiles.com/pumpkin-seeds-parasites-intestinal-worms "Pumpkin Seeds and Parasites – Getting Rid of Human Intestinal Worms with Pumpkin Seeds") in the lower intestine and add to the effectiveness of the papaya seed actions.
+#### [[Sunflower Seeds]]
+- flush out parasites by [preventing successful germination or penetration](http://www.ncbi.nlm.nih.gov/pubmed/11604462) of the parasite to the host system.
+- naturally rich in vitamin E, and research finds that vitamin E can help improve immune resistance to nematode infection in livestock. ([16](https://web.uri.edu/sheepngoat/vitamine/), [17](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5622016/))
 
 ## Bulb
 - #Onions
