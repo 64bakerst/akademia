@@ -14,6 +14,8 @@ next:: [[Candida Cleanse]]
 - Recommended: [https://drclarkstore.com/products/parasite-cleanse-by-dr-hulda-clark/](https://drclarkstore.com/products/parasite-cleanse-by-dr-hulda-clark/)
 - "Light Weight" [https://www.renewlife.ca/product/renew-life-paragone-15-day-anti-parasite-cleansing-program/](https://www.renewlife.ca/product/renew-life-paragone-15-day-anti-parasite-cleansing-program/)
 
+--- 
+
 ## Using Pure Ingredients - Simple Daily Schedule
 
 ###### **USE ONLY ONE METHOD PER INGREDIENT**
@@ -69,6 +71,7 @@ The dosages below are the generally safe daily doses. If you want intensive sche
 - [[Probiotics]]
 - [[Manuka Honey]]
 
+--- 
 
 # Protocols
 
@@ -104,6 +107,8 @@ On Empty Stomach - At Least **13 Minutes** Before Meal
 
 [Source](https://drclarkstore.com/pages/parasite-cleanse-instructions/) [Source PDF](https://cdn.shopify.com/s/files/1/0573/9000/6443/files/Para_Cleanse_Instructions_2021.pdf?v=1639589477) [[Para_Cleanse_Instructions_2021.pdf]]
 
+--- 
+
 ### Another Schedule - Lighter but Longer
 
 #### Per Day Schedule
@@ -128,6 +133,7 @@ Week 10 & 11 - Same as Week 1 & 2
 Week 12 - Break/Stop
 
 #### Per Week Schedule
+
 | Month | Week        | Week        | Week        | Week        |
 | ----- | ----------- | ----------- | ----------- | ----------- |
 | 1     | 1           | 2           | 3           | 4           |
@@ -137,9 +143,11 @@ Week 12 - Break/Stop
 | 3     | 9           | 10          | 11          | 12          |
 |       | Break       | **Cleanse** | **Cleanse** | Break/Stop            |
 
-
+---
 
 ![[Cleanses#Sleep Aid during Cleanses]]
+
+---
 
 # Supportive Protocols - Optional
 ## Raz-Caps 
@@ -180,6 +188,8 @@ Ingredients - Essential Oils
 - sage
 - coriander
 
+---
+
 # Maintenance - After Main Parasite Cleanse
 
 ## Regular
@@ -187,7 +197,6 @@ Ingredients - Essential Oils
 
 
 ## High Dose
-
 
 #### Timing
 - Every 2-3 months
@@ -213,7 +222,7 @@ Ingredients - Essential Oils
 | t/5wk@5d  | 1500d =2.5oz | 25c       | 175c     | 225c      | 25c-200c          |
 
 
-
+---
 
 # General Foods
 
