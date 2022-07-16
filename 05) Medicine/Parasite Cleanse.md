@@ -1,86 +1,57 @@
----
-parent: '[[Medicine]]'
----
+
+parent:: [[Medicine]], [[Cleanses]]
+prev:: [[Digestive Aid Cleanse]]
+next: [[Candida Cleanse]]
+
 #medicine #parasite #clove #wormwood #blackwalnuthull 
 
-1. Digestive Aid Cleanse
-2. Parasite Cleanse
-	1. Weekly Maintenance
-	2. Stop During 2-Day Liver Flush
-3. Candida Cleans
-4. Kidney Cleanse
-5. Liver Cleanse & Flush
-	1. 2 Times
-	2. 2 Weeks between Flushes
-6. Heavy Metal Cleanse
 
-```toc
-```
-
-# General Program
-| Week             | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  |
-| ---------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Dig Aid (17)     | 7   | 7   | 3   |     |     |     |     |     |     |     |     |     |
-| Parasite (18)    | 7   | 7   | 4   | 1   | 1   | 1   | 1   | 1   |     | 1   | 1   |     |
-| Candida (14)     |     |     |     | 7   | 7   |     |     |     |     |     |     |     |
-| Kidney (21)      |     |     |     |     |     | 7   | 7   | 7   |     |     |     |     |
-| Liver (16)       |     |     |     |     |     |     |     |     | 2   |     |     | 2   |
-| Heavy Metal (90) |     |     |     |     |     |     |     |     |     |     |     |     |
-
-# Sleep Aid during Cleanses
-- Ornithine
-	- Helps beutralize ammonia/uric acid
-- Melatonin
-
-| Day | Caps |
-| --- | ---- |
-| 1   | 2    |
-| 2   | 4    |
-| 3   | 6    | 
-| 4+  | 6-8  |
+![[Cleanses#Sleep Aid during Cleanses]]
 
 
-[[Digestive Aid Cleanse]]
+## Pre-Made Kits
 
-# Parasite Cleanse
+- Recommended: [https://drclarkstore.com/products/parasite-cleanse-by-dr-hulda-clark/](https://drclarkstore.com/products/parasite-cleanse-by-dr-hulda-clark/)
+- "Light Weight" [https://www.renewlife.ca/product/renew-life-paragone-15-day-anti-parasite-cleansing-program/](https://www.renewlife.ca/product/renew-life-paragone-15-day-anti-parasite-cleansing-program/)
 
-##### Summary
-- **[[Clove]] Oil** - Kills the Eggs, Start with Cloves - 2 glasses of water
-	- Raw - crush or grind up half a dozen, stir them into a small glass of water and then quickly drink them down
-	- Capsules - 500mg 4x daily
-	- Powder for tea - 4 cups of tea (??)
-	- Powder 
+## Using Pure Ingredients
+- #### **[[Clove]] Oil** - Kills the Eggs, Start with Cloves - 2 glasses of water
+	- **Raw**
+		- crush or grind up half a dozen, stir them into a small glass of water and then quickly drink them down
+	- **Capsules** - 500mg 4x daily
+	- **Powder** for tea - 4 cups of tea (??need to check)
+	- **Powder** 
 		- 500mg = 1/8tsp
 		- 1500mg (3c) = 1/2tsp
 		- 3000mg (6c) = 1tsp
 		- 4500mg (9c) = 1.5tsp
-	- Drops - 20 drops of clove tincture into water
+	- **Drops** - 20 drops of clove tincture into water
 		- 30ml for 11.38 - [iHerb](https://www.iherb.com/pr/herb-pharm-clove-1-fl-oz-30-ml/13432)
-- **Black Walnut Hull** - half an hour after the cloves
-	- Capsule - 250mg 3x daily as Capsule or 150mg/c as per Dr Clark (because her powder is from Green Black Walnut Hull, more potent)
-	- Drops - 30 drops
+- #### **[[Black Walnut Hull]]** - half an hour after the cloves
+	- **Capsule** - 250mg 3x daily as Capsule or 150mg/c as per Dr Clark (because her powder is from Green Black Walnut Hull, more potent)
+	- **Drops** - 30 drops
 		- 30ml for 9.87 - [iHerb](https://www.iherb.com/pr/herb-pharm-black-walnut-1-fl-oz-30-ml/11751) 
-	- Powder - Same as Wormwood
+	- **Powder** - Same as Wormwood
 		- 250mg = 1/8 tsp
 		- 500mg = 1/4 tsp
 		- 750mg ~1/2 tsp
-- **[[Wormwood]]** - half an hour after the cloves - **No more than 3 grams per day**
-	- Capsules - 200mg 3x daily
-	- Drops -  20 drops
+- #### **[[Wormwood]]** - half an hour after the cloves - **No more than 3 grams per day**
+	- **Capsules** - 200mg 3x daily
+	- **Drops** -  20 drops
 		- 30ml for 13.42 - [iHerb](https://www.iherb.com/pr/herb-pharm-wormwood-1-fl-oz-30-ml/14720)
-	- Powder
+	- **Powder**
 		- 250mg (Per Dr Clark schedule) - 1/8 teaspoon
 		- 500mg = 1/4 teaspoon
 		- 1g = 1/2 teaspoon
 		- 1.75 = 1 & 1/8 (1.1) teaspoon ~ a little over 1 teaspoon 
-- **Oregano Oil** - 
-	- Capsules - 500mg 4x daily (Capsules, not liquid, as 500mg = 10,000 drops = 16 ounces) 
-	- Drops - 
-- Sage
-- Fennel
-- Grapefruit Seed Extract - as directed
-- Probiotics
-- Manuka
+- #### **[[Oregano]] Oil** - As Support
+	- **Capsules** - 500mg 4x daily (Capsules, not liquid, as 500mg = 10,000 drops = 16 ounces) 
+	- **Drops** - 
+- [[Sage]]
+- [[Fennel]]
+- [[Grapefruit Seed Extract]] - as directed
+- [[Probiotics]]
+- [[Manuka Honey]]
 
 ### Dr. Clark's Schedule
 

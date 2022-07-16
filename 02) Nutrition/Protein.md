@@ -1,5 +1,5 @@
 ---
-parent: '[[Food]]'
+parent: '[[Nutrition]]'
 
 ---
 
