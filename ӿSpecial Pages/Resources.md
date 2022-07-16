@@ -1,1 +1,1 @@
-parent:: [[Special Pages]]
+parent:: [[Contents]]

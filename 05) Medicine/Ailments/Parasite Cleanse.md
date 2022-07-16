@@ -9,8 +9,6 @@ next:: [[Candida Cleanse]]
 
 
 
-![[Cleanses#Sleep Aid during Cleanses]]
-
 # The Cleanse
 
 ## Pre-Made Kits
@@ -18,39 +16,48 @@ next:: [[Candida Cleanse]]
 - Recommended: [https://drclarkstore.com/products/parasite-cleanse-by-dr-hulda-clark/](https://drclarkstore.com/products/parasite-cleanse-by-dr-hulda-clark/)
 - "Light Weight" [https://www.renewlife.ca/product/renew-life-paragone-15-day-anti-parasite-cleansing-program/](https://www.renewlife.ca/product/renew-life-paragone-15-day-anti-parasite-cleansing-program/)
 
-## Using Pure Ingredients
-- #### **[[Clove]] Oil** - Kills the Eggs, Start with Cloves - 2 glasses of water
+## Using Pure Ingredients - Simple Daily Schedule
+
+**USE ONLY ONE METHOD PER INGREDIENT**
+
+- #### **[[Clove]] Oil** - Kills the Eggs, Start with Cloves PLUS 2 glasses of water
 	- **Raw**
-		- crush or grind up half a dozen, stir them into a small glass of water and then quickly drink them down
-	- **Capsules** - 500mg 4x daily
+		- Crush/grind 6 raw cloves and add to water - drink quickly
+	- **Capsules** - four (4) capsules - 500mg/capsule 
 	- **Powder** for tea - 4 cups of tea (??need to check)
 	- **Powder** 
 		- 500mg = 1/8tsp
 		- 1500mg (3c) = 1/2tsp
 		- 3000mg (6c) = 1tsp
-		- 4500mg (9c) = 1.5tsp
+		- 4500mg (9c) = 1.5tsp *(for Dr. Clarks protocol)*
 	- **Drops** - 20 drops of clove tincture into water
 		- 30ml for 11.38 - [iHerb](https://www.iherb.com/pr/herb-pharm-clove-1-fl-oz-30-ml/13432)
+
+
 - #### **[[Black Walnut Hull]]** - half an hour after the cloves
-	- **Capsule** - 250mg 3x daily as Capsule or 150mg/c as per Dr Clark (because her powder is from Green Black Walnut Hull, more potent)
+	- **Capsule** - three (3) 250mg/capsule regular Black Walnut Hull or 150mg/c from Green Black Walnut Hull - More Potent
 	- **Drops** - 30 drops
 		- 30ml for 9.87 - [iHerb](https://www.iherb.com/pr/herb-pharm-black-walnut-1-fl-oz-30-ml/11751) 
-	- **Powder** - Same as Wormwood
+	- **Powder** 
 		- 250mg = 1/8 tsp
 		- 500mg = 1/4 tsp
 		- 750mg ~1/2 tsp
+
 - #### **[[Wormwood]]** - half an hour after the cloves - **No more than 3 grams per day**
-	- **Capsules** - 200mg 3x daily
+	- **Capsules** - three (3) 200mg/capsule
 	- **Drops** -  20 drops
 		- 30ml for 13.42 - [iHerb](https://www.iherb.com/pr/herb-pharm-wormwood-1-fl-oz-30-ml/14720)
 	- **Powder**
-		- 250mg (Per Dr Clark schedule) - 1/8 teaspoon
-		- 500mg = 1/4 teaspoon
-		- 1g = 1/2 teaspoon
-		- 1.75 = 1 & 1/8 (1.1) teaspoon ~ a little over 1 teaspoon 
+		- 250mg ~ 1/8 tsp 
+		- 500mg ~ 1/4 tsp 
+		- 1000g = 1/2 tsp *(for Dr. Clarks protocol)*
+		- 1750mg = 1 & 1/8 tsp ~ a little over 1 tsp *(for Dr. Clarks protocol)*
+
 - #### **[[Oregano]] Oil** - As Support
-	- **Capsules** - 500mg 4x daily (Capsules, not liquid, as 500mg = 10,000 drops = 16 ounces) 
+	- **Capsules** - four (4) 500mg/capsule
 	- **Drops** - 
+
+
 - [[Sage]]
 - [[Fennel]]
 - [[Grapefruit Seed Extract]] - as directed
@@ -60,38 +67,39 @@ next:: [[Candida Cleanse]]
 
 # Schedules
 
+
 ### Dr. Clark's Schedule
 
 On Empty Stomach - At Least **13 Minutes** Before Meal
 
-| Day   | Green Black Walnut Hull Tincture | OR Green Black Walnut Hull Capsules | Non-Potent Black Walnut Hull Double the Dose | Wormwood      | Cloves          |
-| ----- | -------------------------------- | ----------------------------------- | -------------------------------------------- | ------------- | --------------- |
-|       |                                  | **1c= 150mg**                       |                                              | **1c= 250mg** | **1c= 500mg**   |
-| 1     | 1drop                            | 1p= 30mg                            | 60mg                                         | 1c= 250mg     | 1 x 3/d         |
-| 2     | 2drop                            | 2p= 60mg                            | 120mg                                        | 1 Cap         | 2 x 3/d         |
-| 3     | 3drop                            | 3p= 90mg                            | 1c= 180mg                                    | 2c= 500mg     | 3=1.5g x 3/d    |
-| 4     | 4drop                            | 4p= 120mg                           | 2c= 240mg                                    | 2 Cap         | 3 x 3/d         |
-| 5     | 5drop                            | 1c= 150mg                           | 2c                                           | 3c= .75g      | 3 x 3/d         |
-| 6     | 2tsp= 600d                       | 5c= 750mg                           | 10c                                          | 3 Cap         | 3 x 3/d         |
-| 7     | NONE                             | NONE                                | NONE                                         | 4c= 1g        | 3 x 3/d         |
-| 8     | NONE                             | NONE                                | NONE                                         | 4 Cap         | 3 x 3/d         |
-| 9     | NONE                             | NONE                                | NONE                                         | 5c= 1.25g     | 3 x 3/d         |
-| 10    | NONE                             | NONE                                | NONE                                         | 5 Cap         | 3 x 3/d         |
-| 11    | NONE                             | NONE                                | NONE                                         | 6c= 1.5g      | 7 at once =3.5g |
-| 12    | NONE                             | NONE                                | NONE                                         | 6 Cap         | NONE            |
-| 13    | 2tsp= 600d                       | 5 Cap                               | 10c                                          | 7c= 1.75g     | NONE            |
-| 14    | NONE                             | NONE                                | NONE                                         | 7 Cap         | NONE            |
-| 15    | NONE                             | NONE                                | NONE                                         | 7 Cap         | NONE            |
-| 16    | NONE                             | NONE                                | NONE                                         | 7 Cap         | NONE            |
-| 17    | NONE                             | NONE                                | NONE                                         | NONE          | NONE            |
-| 18    | NONE                             | NONE                                | NONE                                         | NONE          | 7 Cap           |
-| Total | 1215 Drops /61ml                 | 14 Caps                             |                                              | 70 Caps       | 95 Caps         |
+| Day   | Green Black Walnut Hull Tincture | OR Green Black Walnut Hull Capsules | Wormwood      | Cloves          |
+| ----- | -------------------------------- | ----------------------------------- | ------------- | --------------- |
+|       |                                  | **1c= 150mg**                       | **1c= 250mg** | **1c= 500mg**   |
+| 1     | 1drop                            | 1p= 30mg                            | 1c= 250mg     | 1 x 3/d         |
+| 2     | 2drop                            | 2p= 60mg                            | 1 Cap         | 2 x 3/d         |
+| 3     | 3drop                            | 3p= 90mg                            | 2c= 500mg     | 3=1.5g x 3/d    |
+| 4     | 4drop                            | 4p= 120mg                           | 2 Cap         | 3 x 3/d         |
+| 5     | 5drop                            | 1c= 150mg                           | 3c= .75g      | 3 x 3/d         |
+| 6     | 2tsp= 600d                       | 5c= 750mg                           | 3 Cap         | 3 x 3/d         |
+| 7     | NONE                             | NONE                                | 4c= 1g        | 3 x 3/d         |
+| 8     | NONE                             | NONE                                | 4 Cap         | 3 x 3/d         |
+| 9     | NONE                             | NONE                                | 5c= 1.25g     | 3 x 3/d         |
+| 10    | NONE                             | NONE                                | 5 Cap         | 3 x 3/d         |
+| 11    | NONE                             | NONE                                | 6c= 1.5g      | 7 at once =3.5g |
+| 12    | NONE                             | NONE                                | 6 Cap         | NONE            |
+| 13    | 2tsp= 600d                       | 5 Cap                               | 7c= 1.75g     | NONE            |
+| 14    | NONE                             | NONE                                | 7 Cap         | NONE            |
+| 15    | NONE                             | NONE                                | 7 Cap         | NONE            |
+| 16    | NONE                             | NONE                                | 7 Cap         | NONE            |
+| 17    | NONE                             | NONE                                | NONE          | NONE            |
+| 18    | NONE                             | NONE                                | NONE          | 7 Cap           |
+| Total | 1215 Drops /61ml                 | 14 Caps                             | 70 Caps       | 95 Caps         |
 
 
 
 [Source](https://drclarkstore.com/pages/parasite-cleanse-instructions/) [Source PDF](https://cdn.shopify.com/s/files/1/0573/9000/6443/files/Para_Cleanse_Instructions_2021.pdf?v=1639589477) [[Para_Cleanse_Instructions_2021.pdf]]
 
-### Another Schedule
+### Another Schedule - Lighter but Longer
 
 #### Per Day Schedule
 Week 1 & 2
@@ -124,6 +132,8 @@ Week 12 - Break/Stop
 
 
 
+![[Cleanses#Sleep Aid during Cleanses]]
+
 # Supportive Protocols - Optional
 ## Raz-Caps 
 
@@ -134,11 +144,11 @@ Pre-made: [https://drclarkstore.com/products/raz-caps-500-mg-100-capsules](https
 1 capsule per day - 500mg/c
 
 **Ingredients**
-- Pumpkin seed (Cucurbita pepo)
-- garlic (Allium sativum)
-- cramp bark (Viburnum opulus)
-- cayenne (Capsicum annuum)
-- thyme (Thymus vulgaris)
+- [[Pumpkin seed]] (Cucurbita pepo)
+- [[Garlic]] (Allium sativum)
+- Cramp Bark (Viburnum opulus)
+- [[Cayenne]] (Capsicum annuum)
+- [[Thyme]] (Thymus vulgaris)
 
 
 

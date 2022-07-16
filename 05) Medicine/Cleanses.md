@@ -1,3 +1,10 @@
+parent:: [[Medicine]]
+child:: [[Digestive Aid Cleanse]], [[Parasite Cleanse]], [[Candida Cleanse]], [[Kidney Cleanse]], [[Liver Cleanse]], [[Heavy Metal Cleanse]]
+
+---
+
+
+
 1. Digestive Aid Cleanse
 2. Parasite Cleanse
 	1. Weekly Maintenance
@@ -11,7 +18,7 @@
 
 
 # General Program
-| Week             | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  |
+| Week  :           | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  |
 | ---------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Dig Aid (17)     | 7   | 7   | 3   |     |     |     |     |     |     |     |     |     |
 | Parasite (18)    | 7   | 7   | 4   | 1   | 1   | 1   | 1   | 1   |     | 1   | 1   |     |
