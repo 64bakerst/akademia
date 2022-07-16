@@ -5,20 +5,25 @@ next:: [[Candida Cleanse]]
 
 #medicine #parasite #clove #wormwood #blackwalnuthull 
 
-
-
-
-
 # The Cleanse
 
 ## Pre-Made Kits
+
+**Ideal for beginners**
 
 - Recommended: [https://drclarkstore.com/products/parasite-cleanse-by-dr-hulda-clark/](https://drclarkstore.com/products/parasite-cleanse-by-dr-hulda-clark/)
 - "Light Weight" [https://www.renewlife.ca/product/renew-life-paragone-15-day-anti-parasite-cleansing-program/](https://www.renewlife.ca/product/renew-life-paragone-15-day-anti-parasite-cleansing-program/)
 
 ## Using Pure Ingredients - Simple Daily Schedule
 
-**USE ONLY ONE METHOD PER INGREDIENT**
+###### **USE ONLY ONE METHOD PER INGREDIENT**
+- **Capsules** are most convenient
+- **Drops** are effective
+- **Powders** are good if you can get access to fresh herbs, or if you want to buy in bulk. 
+	- Powders are also good if you want to fill up your own capsules - Size 0
+	- If you want to take powders raw - they MUST be mixed with honey - make a tincture with the powders. Wormwood is bitter and Cloves are strong - the Black Walnut Hull will neutralize the tastes - add the proper dosages to 4 ounces of water. Add honey to taste and water as needed (the more watery, the more bitter)
+
+The dosages below are the generally safe daily doses. If you want intensive schedules, then only use the protocols as outlined further.
 
 - #### **[[Clove]] Oil** - Kills the Eggs, Start with Cloves PLUS 2 glasses of water
 	- **Raw**
@@ -65,7 +70,7 @@ next:: [[Candida Cleanse]]
 - [[Manuka Honey]]
 
 
-# Schedules
+# Protocols
 
 
 ### Dr. Clark's Schedule
