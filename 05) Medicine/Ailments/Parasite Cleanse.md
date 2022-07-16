@@ -108,6 +108,7 @@ On Empty Stomach - At Least **13 Minutes** Before Meal
 
 #### Per Day Schedule
 Week 1 & 2
+
 | Day    | Black Walnut | Wormwood | Cloves  |
 | ------ | --------- | ----- | ------- |
 | 1 & 8  | 2c x3/d   | 2c    | 2c x3/d |
@@ -117,6 +118,7 @@ Week 1 & 2
 | 5 & 12 | 2c x3/d   | 10c    | 2c x3/d |
 | 6 & 13 | 2c x3/d   | 12c    | 2c x3/d |
 | 7 & 14 | 2c x3/d   | 14c    | 2c x3/d |
+
 Week 3 - Break
 Week 4 & 5 - Same as Week 1 & 2
 Week 6 - Break
