@@ -7,8 +7,6 @@ parent:: [[Area of Interest]]
 - [[4 - Purification]]
 - [[5 - Filtration]]
 
-
-
 ---
 
 
@@ -20,7 +18,7 @@ in progress
 
 ---
 
-# [[Distillation]]
+# [[3 - Distillation]]
 ### Regular
 in progress
 ### Desalination
