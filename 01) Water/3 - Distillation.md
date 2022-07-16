@@ -1,8 +1,8 @@
+parent:: [[0 - Water]]
+prev:: [[2 - Storage]]
+next:: [[4 - Purification]]
 
----
-parent: '[[Water]]'
-prev: '[[Water/Collection]]'
----
+--- 
 
  # Survival
  #### Solar Stills out of Bottle

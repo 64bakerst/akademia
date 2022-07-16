@@ -1,16 +1,18 @@
----
-parent: '[[Area of Interest]]'
----
- #water 
- ###### Subpages
-```breadcrumbs
-type:tree
-dir:down
-title:false
-```
+
+parent:: [[Area of Interest]]
+
+- [[1 - Collection]]
+- [[2 - Storage]]
+- [[3 - Distillation]]
+- [[4 - Purification]]
+- [[5 - Filtration]]
 
 
-# [[Collection]]
+
+---
+
+
+# [[1 - Collection]]
 ### Rainwater
 in progress
 ### From Air
@@ -30,13 +32,13 @@ in progress
 - Disinfection - To remove parasites
 		- Filter - 1micron or smaller with a cyst rating of NSF53 or 58 certification
 		- UV-C - Water must be clear, let any particles settle before treating
-- [[Purification]] - To remove bacteria & viruses
+- [[4 - Purification]] - To remove bacteria & viruses
 	- [[Iodine]]
 		- 5 drops = .25ml per 1 litre
 	- Chlorine/Bleach
 		- 5.25% sodium hypochlorite
 		- 2 drops = .1ml per 1 litre
-- [[Filtration]]
+- [[5 - Filtration]]
 	- Carbon/Charcoal
 		- Berkey
 	- Chemicals

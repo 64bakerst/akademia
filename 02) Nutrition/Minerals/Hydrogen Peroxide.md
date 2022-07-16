@@ -29,7 +29,6 @@
 
 
 
-
 ##### Caution
 - Taking hydrogen peroxide immediately before bedtime causes difficulty getting to sleep because of the increased oxygen levels at the cellular level. 
 - CAUTION: Individuals who have had transplants should not take hydrogen peroxide. 

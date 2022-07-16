@@ -1,8 +1,9 @@
+parent:: [[0 - Water]]
+prev:: [[3 - Distillation]]
+next:: [[5 - Filtration]]
+
 ---
-parent: '[[Water]]'
-prev: '[[Desalination]]'
-next: '[[Water/Filtration]]'
----
+
 #water  
 
 

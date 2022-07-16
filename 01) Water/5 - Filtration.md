@@ -1,5 +1,6 @@
----
-parent: '[[Water]]'
+parent:: [[0 - Water]]
+prev:: [[4 - Purification]]
+
 ---
 
 #water 
