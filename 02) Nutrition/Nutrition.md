@@ -9,7 +9,7 @@ child:
 #food
 
 
-- [[Protein]] & Amino Acids - Nuts & Seeds + Sprouts & Legumes
+- [[Cell Structure - Protein]] & Amino Acids - Nuts & Seeds + Sprouts & Legumes
 - [[Fats]] & Oil
 - [[Grounding - Vegetables]] - Vegetables
 - [[Energy - Fruits]] - Fruits
@@ -19,7 +19,7 @@ child:
 	
 
 
-- [[Minerals]]
+- [[Building Blocks - Minerals]]
   - [[Iodine]]
   - [[Calcium]]
 - [[Recipe]]
