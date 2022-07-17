@@ -1,6 +1,6 @@
 parent:: [[0 - Water]]
 prev:: [[2 - Storage]]
-next:: [[4 - Purification]]
+next:: [[4 - Disinfection]]
 
 --- 
 

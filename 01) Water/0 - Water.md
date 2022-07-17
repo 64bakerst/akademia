@@ -4,7 +4,7 @@ parent:: [[Area of Interest]]
 - [[1 - Collection]]
 - [[2 - Storage]]
 - [[3 - Distillation]]
-- [[4 - Purification]]
+- [[4 - Disinfection]]
 - [[5 - Filtration]]
 
 ---
@@ -30,7 +30,7 @@ in progress
 - Disinfection - To remove parasites
 		- Filter - 1micron or smaller with a cyst rating of NSF53 or 58 certification
 		- UV-C - Water must be clear, let any particles settle before treating
-- [[4 - Purification]] - To remove bacteria & viruses
+- [[4 - Disinfection]] - To remove bacteria & viruses
 	- [[Iodine]]
 		- 5 drops = .25ml per 1 litre
 	- Chlorine/Bleach

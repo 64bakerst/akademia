@@ -9,7 +9,7 @@ child:: [[Building Blocks - Minerals]], [[Recipe]], [[Storage - Fats]], [[Ground
 - [[Storage - Fats]] & Oil
 - [[Grounding - Vegetables]] - Vegetables
 - [[Energy - Fruits]] - Fruits
-- [[Medicine]] - Herbs, Microgreens, Juicing Greens + Sea weed & Nutritional yeast
+- [[Wellness]] - Herbs, Microgreens, Juicing Greens + Sea weed & Nutritional yeast
 - [[Recipe]]
 	- [[For Energy]]
 	

@@ -13,6 +13,8 @@ This is also useful if you want to make your own mineral or electrolyte water, a
 ## Recipe
 
 #### Toothpaste
-- bentonite clay, baking soda, xylitol, and a few drops of spearmint essential oil.
-- equal parts of baking soda, use organic coconut oil for the base, add xylitol for sweetness and a bit of peppermint oil for flavor.
-- 
+- bentonite clay, baking soda, xylitol, and a few drops of spearmint essential oil. ^xe82ow
+- equal parts of baking soda, use organic coconut oil for the base, add xylitol for sweetness and a bit of peppermint oil for flavor. ^nczoep
+
+
+# Remineralizing Teeth with Calcium

@@ -1,5 +1,5 @@
 
-parent:: [[Medicine]], [[Cleanses]]
+parent:: [[Wellness]], [[Cleanses]]
 prev:: [[Digestive Aid Cleanse]]
 next:: [[Candida Cleanse]]
 
@@ -143,6 +143,50 @@ Week 12 - Break/Stop
 | 3     | 9           | 10          | 11          | 12          |
 |       | Break       | **Cleanse** | **Cleanse** | Break/Stop            |
 
+
+
+## Smoothie - Super Effective, Super Potent
+
+[Source](https://superfoodprofiles.com/papaya-seeds-parasites)
+#### Ingredients
+- fresh **papaya seeds** - 1 Tablespoon to 1/4 Cup
+- **papaya** - 1/3 of small or 1/5 of large - 1 Cup 
+	- Ideally you’d be looking for a fruit that is just turning from green to yellow, with green more predominant. Papaya like these should still contain useful levels of digestive enzymes
+- **raw organic pumpkin seeds** - 1/4 Cup
+- **Sunflower Seeds** (optional - 1/2 Cup)
+- **organic virgin coconut oil** - 1 Tablespoon
+	- The lauric acid in coconuts is converted to the compound monolaurin in the digestive tract, which can help rid the body of protozoa, ringworm and giardia parasites
+- **Desiccated coconut** - 1 Heaping Tablespoon
+	- If have a fresh coconut, use the **coconut water** instead of plain water
+-  **fresh cloves** - 6 cloves
+	- Clove oil capsules taken at the same time as the smoothie may also work but I think fresh cloves are better. It can also be good to pre-soak them in a small amount of your smoothie liquid, along with the papaya seeds, before you blend.
+- **Tumeric Powder** - 1 Teaspoon
+- **Ice** - 1/2 Cups
+- **Yogurt** (optional) - 3 Heaping Tablespoons
+	- eases the taste + strength of cloves
+- **healthy ‘milk’** of your choice - half as high as the rest of the ingredients - 1.5-2.5 Cups
+	- Ideally use **coconut water** or **half coconut milk and half water**. Coconut is good for parasites and using it for your smoothie’s milk as well increases its effectiveness.
+
+#### Directions
+- Drink the whole smoothie down in one sitting if you can, first thing in the morning on an empty stomach before food. 
+- Intended to be a breakfast replacement.
+
+- Drink 3 or 4 mornings in a row
+- Repeat the treatment every 2 weeks
+	- this is to coincide with the breeding cycles of common parasites, such as tapeworms, hookworms and pinworms.
+	- By repeating the treatment three times over a 6 week period there’s a much better chance of interrupting this breeding cycle, or up to 3 months to be completely sure that you have dealt with intestinal worms and other kinds of parasites at their various life cycles.
+
+- Must use a Laxative
+
+- #### Laxative
+	- Ayurvedic triphala powder, [like this organic one I take](https://amzn.to/37Zgdx7), is one of the few truly beneficial laxatives for occasional use.
+	- You can make it up at the same time as the smoothie and let it sit for a couple of hours to increase its effectiveness.
+	- Follow the directions for the stronger dose in the page on [taking triphala for digestive health](https://superfoodprofiles.com/how-to-take-triphala-churna "How to Take Triphala Churna for Digestive Health") and drink it around two hours after you finish the smoothie and before eating anything else.
+	- no laxatives should be taken for more than five days in a row. Triphala is fine at the lower doses for longer term use.
+
+
+
+
 ---
 
 ![[Cleanses#Sleep Aid during Cleanses]]
@@ -234,17 +278,19 @@ Ingredients - Essential Oils
 -  one of the richest natural sources of magnesium
 	- a magnesium-deficient diet is associated with higher intestinal inflammation. This diet also led to a decline in the quantity of _bifidobacteria_, a crucial species of the human microbiome that is responsible for everything from producing B vitamins to protecting the gut from harmful pathogens.
 - [Pumpkin seeds paralyze worms](https://superfoodprofiles.com/pumpkin-seeds-parasites-intestinal-worms "Pumpkin Seeds and Parasites – Getting Rid of Human Intestinal Worms with Pumpkin Seeds") in the lower intestine and add to the effectiveness of the papaya seed actions.
+
+
 #### [[Sunflower Seeds]]
 - flush out parasites by [preventing successful germination or penetration](http://www.ncbi.nlm.nih.gov/pubmed/11604462) of the parasite to the host system.
 - naturally rich in vitamin E, and research finds that vitamin E can help improve immune resistance to nematode infection in livestock. ([16](https://web.uri.edu/sheepngoat/vitamine/), [17](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5622016/))
 
 ## Bulb
-- #Onions
-	- Onions contain various sulfur metabolites that help inhibit compounds inside parasites necessary for its survival. ([11](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6023319/))
-- #Garlic 
-	- For best results, chop up garlic and let it sit for several minutes so it can release its beneficial, microbe-fighting compounds.
-	- richness of sulfur compounds such as alliin, allicin, diallyl sulfide, and ajoene which are antibiotic (destroys pathogenic organisms), antilipidemic (reduces the amount of fat in the bloodstream), antithrombotic (decreases the formation of blood clots), and anti-carcinogenic (helps arrest the development of cancer)
-	- Germanium is found in very small quantities (5-10 parts per million) in the earth’s crust, but it is concentrated in plants – especially those known for building immunity! For example, garlic contains 754 ppm of germanium, ginseng contains 250-320 ppm, comfrey contains 152 ppm, and aloe vera 77 ppm. Germanium plays a key role in the circulation of oxygen to the body’s tissues, and stimulates our natural killer (NK) cells which help fight and prevent cancer. [source](https://www.regenerativenutrition.com/content.asp?id=442)
+#### Onions
+- Onions contain various sulfur metabolites that help inhibit compounds inside parasites necessary for its survival. ([11](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6023319/))
+ ### Garlic 
+- For best results, chop up garlic and let it sit for several minutes so it can release its beneficial, microbe-fighting compounds.
+- richness of sulfur compounds such as alliin, allicin, diallyl sulfide, and ajoene which are antibiotic (destroys pathogenic organisms), antilipidemic (reduces the amount of fat in the bloodstream), antithrombotic (decreases the formation of blood clots), and anti-carcinogenic (helps arrest the development of cancer)
+- Germanium is found in very small quantities (5-10 parts per million) in the earth’s crust, but it is concentrated in plants – especially those known for building immunity! For example, garlic contains 754 ppm of germanium, ginseng contains 250-320 ppm, comfrey contains 152 ppm, and aloe vera 77 ppm. Germanium plays a key role in the circulation of oxygen to the body’s tissues, and stimulates our natural killer (NK) cells which help fight and prevent cancer. [source](https://www.regenerativenutrition.com/content.asp?id=442)
 
 ## Vegetables
 
@@ -285,15 +331,16 @@ Ingredients - Essential Oils
 - #Pomegranite
 
 ## Other
-- #Kefir
-- #Sauerkraut
-- #Apple_Cider_Vinegar
-	- contains B-vitamins
+
+### Kefir
+### Sauerkraut
+### [[Apple Cider Vinegar]]
+- contains B-vitamins
 
 
 ## Herbs
 
-### #Wormwood - [[Wormwood|See More]]
+### [[Wormwood]]
 
 **-   Do not take more than  3 grams or 60 tincture drops of wormwood per day.**
 ![[Wormwood#^waslur]]
@@ -310,35 +357,35 @@ Ingredients - Essential Oils
 
 ### [[Thyme]]
 
-[[Red Clover]] - Cleanse Blood
+### [[Red Clover]] - Cleanse Blood
 
-[[Milk Thistle]] - Liver + Digestive Cleansing
+### [[Milk Thistle]] - Liver + Digestive Cleansing
 
-[[Dandelion]] - Liver + Digestive Cleansing
+### [[Dandelion]] - Liver + Digestive Cleansing
 
-[[Knotweed]] Extract
+### [[Knotweed]] Extract
 
-[[Sage]] Leaf
+### [[Sage]] Leaf
 
-[[Gentian]] Root
+### [[Gentian]] Root
 
-Hyssop Leaf
+### Hyssop Leaf
 
-Henugreek Seed
+### Henugreek Seed
 
-Chamomile Flower Extract
+### Chamomile Flower Extract
 
-Black Pepper Fruit
+### Black Pepper Fruit
 
-Peppermint Leaf
+### Peppermint Leaf
 
-Fennel
+### Fennel
 
-Cholorphyll
+### Cholorophyll
 
-Diatomaceous Earth
+### Diatomaceous Earth
 
-[[Neem]]
+### [[Neem]]
 
 
 
@@ -348,38 +395,6 @@ Diatomaceous Earth
 -   Alcohol – Does not allow for proper immune system functioning.
 -   Wheat – Many grains, especially those containing gluten, can break down into sugar quickly and cause intestinal inflammation.
 -   Pork – Can potentially be contaminated with parasites.
-
-
-## Smoothie
-[Source](https://superfoodprofiles.com/papaya-seeds-parasites)
-#### Ingredients
-- fresh **papaya seeds** - 1 Tablespoon to 1/4 Cup
-- **papaya** - 1/3 of small or 1/5 of large - 1 Cup 
-	- Ideally you’d be looking for a fruit that is just turning from green to yellow, with green more predominant. Papaya like these should still contain useful levels of digestive enzymes
-- **raw organic pumpkin seeds** - 1/4 Cup
-- **Sunflower Seeds** (optional - 1/2 Cup)
-- **organic virgin coconut oil** - 1 Tablespoon
-	- The lauric acid in coconuts is converted to the compound monolaurin in the digestive tract, which can help rid the body of protozoa, ringworm and giardia parasites
-- **Desiccated coconut** - 1 Heaping Tablespoon
-	- If have a fresh coconut, use the **coconut water** instead of plain water
--  **fresh cloves** - 6 cloves
-	- Clove oil capsules taken at the same time as the smoothie may also work but I think fresh cloves are better. It can also be good to pre-soak them in a small amount of your smoothie liquid, along with the papaya seeds, before you blend.
-- **Tumeric Powder** - 1 Teaspoon
-- **Ice** - 1/2 Cups
-- **Yogurt** (optional) - 3 Heaping Tablespoons
-	- eases the taste + strength of cloves
-- **healthy ‘milk’** of your choice - half as high as the rest of the ingredients - 1.5-2.5 Cups
-	- Ideally use **coconut water** or **half coconut milk and half water**. Coconut is good for parasites and using it for your smoothie’s milk as well increases its effectiveness.
-- Drink the whole smoothie down in one sitting if you can. first thing in the morning on an empty stomach before food. intended to be a breakfast replacement.
-- initial treatment - three or even four mornings in a row
-- repeat the treatment in two weeks time and again in another two weeks
-	- this is to coincide with the breeding cycles of common parasites, such as tapeworms, hookworms and pinworms.
-	- By repeating the treatment three times over a 6 week period there’s a much better chance of interrupting this breeding cycle, or up to 3 months to be completely sure that you have dealt with intestinal worms and other kinds of parasites at their various life cycles.
-- #### Laxative
-	- Ayurvedic triphala powder, [like this organic one I take](https://amzn.to/37Zgdx7), is one of the few truly beneficial laxatives for occasional use.
-	- You can make it up at the same time as the smoothie and let it sit for a couple of hours to increase its effectiveness.
-	- Follow the directions for the stronger dose in the page on [taking triphala for digestive health](https://superfoodprofiles.com/how-to-take-triphala-churna "How to Take Triphala Churna for Digestive Health") and drink it around two hours after you finish the smoothie and before eating anything else.
-	- no laxatives should be taken for more than five days in a row. Triphala is fine at the lower doses for longer term use.
 
 
 

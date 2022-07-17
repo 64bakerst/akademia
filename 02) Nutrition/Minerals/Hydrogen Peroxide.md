@@ -1,35 +1,34 @@
+https://docakilah.wordpress.com/2011/12/09/the-benefits-of-hydrogen-peroxide-and-its-many-uses/
 
-## Use of Healing
+## Use in Water Purification
+
+
+
+## Use in Healing
 
 - Drink hydrogen peroxide solution on an empty stomach
 	- 1 hour before or
 	- 3 hours after a meal
+- Food in the stomach may cause excess foaming, indigestion or vomiting. 
 - Add food grade hydrogen peroxide to 8 oz. distilled water, spring water, milk, vegetable juice, or fruit juice.
 - *There is an enzyme in fresh pressed carrot juice and bananas that breaks down H202 into water and oxygen on contact. No sugary, alcoholic or carbonated beverages.* 
-- ***Do not use chlorinated tap water.*** 
 - Hydrogen peroxide is used to pasteurize milk in most countries around the world. 12 drops of 35% food grade hydrogen peroxide in a quart of milk is an alternative to pasteurization. 
+- Drinking hydrogen peroxide may cause an upset stomach. 
 - If your stomach gets upset at any level, stay at that level, or go back one level. 
 - Try not to burp after drinking the hydrogen peroxide solution; it is probably singlet oxygen (O1).
 - When reaching higher dosages, more water may be used. Deep breathing, fresh air, and exercise are also very important. If you are on a medication, consult your doctor. 
+
+#### Dosage
+
+
+- Another method of drinking hydrogen peroxide, requires putting **1 drop of hydrogen peroxide in every ounce of water you drink**. If the taste of the hydrogen peroxide is to strong for you, try putting 1 drop of hydrogen peroxide in every 2 ounces of water you drink.
+- Those with chronic systemic Candidiasis may need to start with **1 drop in 8oz. of water 3 times a day, then 2 drops in 8oz. of water three times a day before starting a schedule**. 
 - Candida victims may need to stay at the Day 1 dosage level for up to 1 week before beginning the hydrogen peroxide regimen. 
-
-| Day   | Dosage                        |
-| ----- | ----------------------------- |
-| 1     | 1 oz/d                        |
-| 2     | 2oz/d                         |
-| 3     | 3oz/d                         |
-| 4     | 4oz/d                         |
-| 5     | 5oz/d                         |
-| 6-12  | 5oz x2/d                      |
-| 13-19 | 5oz x3/d                      |
-| 20-25 | 5oz x2/d                      |
-| 27-32 | 5oz every other day           |
-| 33+   | 5oz every 3rd day aka 2x/week |
-
-
+- People with serious problems will benefit from **staying on 25 drops three times a day for one to three weeks, then tapering down to 25 drops two times daily until the problem is resolved (1 to 6 months)**. Some patients take three or four lecithin capsules at the same time they take the hydrogen peroxide to stop the nausea.
 
 
 ##### Caution
+- **Do not mix chlorinated tap water with 35% Food Grade Hydrogen Peroxide!** 
 - Taking hydrogen peroxide immediately before bedtime causes difficulty getting to sleep because of the increased oxygen levels at the cellular level. 
 - CAUTION: Individuals who have had transplants should not take hydrogen peroxide. 
 - Hydrogen peroxide stimulates the immune system and could cause the rejection of the transplanted organ. 
@@ -37,7 +36,17 @@
 - CAUTION: If any strong solution of hydrogen peroxide concentrate is spilled on the skin, flush the skin immediately with water. Skin may whiten temporarily. 
 
 
-## Using Food Grade Hydrogen Peroxide
+### Drinking Hydrogen Peroxide
+
+The human body expels 70 percent of its toxins from breathing. When you breathe, fat molecules combine with oxygen atoms, producing carbon dioxide. Carbon dioxide is the most abundant product of metabolism. The other 30 percent of toxins are discharged through defecation and sweat. A small amount of water soluble toxins are discharged through urination. If your breathing is not operating at peak efficiency, you are not ridding yourself of toxins properly. Research shows that shallow breathers get cancer more often. Drinking Hydrogen Peroxide usually helps rid the body of excess toxins, bacteria, viruses and cancers. The acidic properties of fat lower the body's cellular pH and oxygen levels, producing an ideal breeding ground for cancer. Cancer needs an acidic low oxygen environment to survive and thrive. Your kidneys must work overtime if less than 70 percent of your toxins are not being released through breathing, causing a number of illnesses.
+
+A 1:1000 solution of [[colloidal silver]] to H2O2 increases the efficacy of colloidal silver by up to 100 times against bacteria. The increased bioavailability reaction using colloidal silver and H2O2 results in a delivery mechanism that increases adsorption of silver directly into tissues. Dilute the H2O2 to the desired concentration, and then add the colloidal silver to the solution. The amount of hydrogen peroxide to use will depend on the type and quality of colloidal silver. The higher the particle content, the more hydrogen peroxide will need to be used. A 3% H2O2 solution with colloidal silver is much more reactive than standard 3% H2O2 solution.
+
+As dead bacteria and toxins are released from your body, your capacity to eliminate them quickly enough may cause some pain or discomfort in the kidneys. This toxic overload may cause fatigue, diarrhea, headaches, skin eruptions, cold or flu-like symptoms, and/or nausea. If this occurs, remain at the current dosage or reduce it to the previous dosage until the problem stops. Do not discontinue drinking the hydrogen peroxide solution unless pain or irritations become severe. Discomfort and irritations will dissipate shortly after cutting back on the amount of hydrogen peroxide you are drinking. **Continuing with the hydrogen peroxide program will clean out the body sooner of excess toxins.** 
+
+
+
+## Other Everyday Uses
 
  Bathing: Use about 64 oz. (2 quarts) of the of 3% or 3.5% diluted hydrogen peroxide solution in a tub full of warm water. Do not try this before bedtime, because the absorbed oxygen energizes the body and prevents sleep. Soak in the bath for at least 1/2 hour. Add hot water to maintain bath temperature keeping pores and blood vessels dilated, facilitating absorption of oxygen through your skin. 
  
@@ -78,31 +87,6 @@ Toothpaste: Use baking soda and add enough 3% H2O2 to make a paste or dip your b
 Washing/Laundry: Add 8 oz. of 3% H2O2 to your wash in place of bleaches. 
 
 Vaporizer (Cool Mist): Add 12 oz. of 3% food grade hydrogen peroxide or up to 4 oz. of 35% food grade hydrogen peroxide to one gallon of water or mix 16 oz. (2 Cups) of 3.5% hydrogen peroxide with 128 oz. (1 gallon) of water in a vaporizer. Emphysema, chronic obstructive pulmonary disease, lung cancer, bronchitis, pneumonia, etc., usually gets better using a cool mist vaporizer filled with a hydrogen peroxide mixture.
-
-### Drinking Hydrogen Peroxide
-
-The human body expels 70 percent of its toxins from breathing. When you breathe, fat molecules combine with oxygen atoms, producing carbon dioxide. Carbon dioxide is the most abundant product of metabolism. The other 30 percent of toxins are discharged through defecation and sweat. A small amount of water soluble toxins are discharged through urination. If your breathing is not operating at peak efficiency, you are not ridding yourself of toxins properly. Research shows that shallow breathers get cancer more often. Drinking Hydrogen Peroxide usually helps rid the body of excess toxins, bacteria, viruses and cancers. The acidic properties of fat lower the body's cellular pH and oxygen levels, producing an ideal breeding ground for cancer. Cancer needs an acidic low oxygen environment to survive and thrive. Your kidneys must work overtime if less than 70 percent of your toxins are not being released through breathing, causing a number of illnesses.
-
-A 1:1000 solution of [[colloidal silver]] to H2O2 increases the efficacy of colloidal silver by up to 100 times against bacteria. The increased bioavailability reaction using colloidal silver and H2O2 results in a delivery mechanism that increases adsorption of silver directly into tissues. Dilute the H2O2 to the desired concentration, and then add the colloidal silver to the solution. The amount of hydrogen peroxide to use will depend on the type and quality of colloidal silver. The higher the particle content, the more hydrogen peroxide will need to be used. A 3% H2O2 solution with colloidal silver is much more reactive than standard 3% H2O2 solution.
-
-Drinking hydrogen peroxide may cause an upset stomach. 
-
-**Hydrogen peroxide should be taken on an empty stomach, one hour before meals or three hours after meals.** 
-
-Food in the stomach may cause excess foaming, indigestion or vomiting. 
-
-Those with chronic systemic Candidiasis may need to start with **1 drop in 8oz. of water 3 times a day, then 2 drops in 8oz. of water three times a day before starting a schedule**. 
-
-**Do not mix chlorinated tap water with 35% Food Grade Hydrogen Peroxide!** 
-
-People with serious problems will benefit from **staying on 25 drops three times a day for one to three weeks, then tapering down to 25 drops two times daily until the problem is resolved (1 to 6 months)**. Some patients take three or four lecithin capsules at the same time they take the hydrogen peroxide to stop the nausea.
-
-
-As dead bacteria and toxins are released from your body, your capacity to eliminate them quickly enough may cause some pain or discomfort in the kidneys. This toxic overload may cause fatigue, diarrhea, headaches, skin eruptions, cold or flu-like symptoms, and/or nausea. If this occurs, remain at the current dosage or reduce it to the previous dosage until the problem stops. Do not discontinue drinking the hydrogen peroxide solution unless pain or irritations become severe. Discomfort and irritations will dissipate shortly after cutting back on the amount of hydrogen peroxide you are drinking. **Continuing with the hydrogen peroxide program will clean out the body sooner of excess toxins.** 
-
-Another method of drinking hydrogen peroxide, requires putting **1 drop of hydrogen peroxide in every ounce of water you drink**. If the taste of the hydrogen peroxide is to strong for you, try putting 1 drop of hydrogen peroxide in every 2 ounces of water you drink.
-
-
 
 ### Healing
 

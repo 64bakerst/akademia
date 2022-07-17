@@ -1,5 +1,5 @@
 parent:: [[0 - Water]]
-prev:: [[4 - Purification]]
+prev:: [[4 - Disinfection]]
 
 ---
 
