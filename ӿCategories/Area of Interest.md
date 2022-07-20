@@ -3,10 +3,4 @@ child:: [[0 - Water]], [[Nutrition]], [[Energy]], [[Shelter]], [[Wellness]], [[F
 
 ---
 
-
-
-```breadcrumbs
-type:tree
-dir:down
-title:false
-```
+# Area of Interest TOC

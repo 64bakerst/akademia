@@ -1,5 +1,6 @@
 
 parent:: [[Area of Interest]]
+next:: [[1 - Collection]]
 
 - [[1 - Collection]]
 - [[2 - Storage]]
@@ -33,6 +34,11 @@ in progress
 - [[4 - Disinfection]] - To remove bacteria & viruses
 	- [[Iodine]]
 		- 5 drops = .25ml per 1 litre
+		- 20 drops - 1ml per 1 gallon
+	- [[Hydrogen Peroxide]]
+		- 10 drops = .5ml per 1 litre
+		- 40 drops = 2ml per 1 gallon
+		- ***DO NOT EXCEED MORE THAN 1 DROP per OUNCE***
 	- Chlorine/Bleach
 		- 5.25% sodium hypochlorite
 		- 2 drops = .1ml per 1 litre

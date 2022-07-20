@@ -1,5 +1,5 @@
-parent:: [[Wellness]]
-child:: [[Digestive Aid Cleanse]], [[Parasite Cleanse]], [[Candida Cleanse]], [[Kidney Cleanse]], [[Liver Cleanse]], [[Heavy Metal Cleanse]]
+Root:: [[Medicine]]
+Subpage:: [[Digestive Aid Cleanse]], [[Parasite Cleanse]], [[Candida Cleanse]], [[Kidney Cleanse]], [[Liver Cleanse]], [[Heavy Metal Cleanse]]
 
 ---
 

@@ -1,15 +1,7 @@
----
-parent: '[[Category]]'
-child: 
-- '[[Survival]]'
-- '[[Basics]]'
-- '[[Nomadic]]'
-- '[[Householding]]'
-- '[[Homesteading]]'
-- '[[Terratory]]'
-- '[[Self-Dev]]'
-- '[[Fitness]]'
-- '[[Wellness]]'
+
+parent:: [[Category]]
+child:: [[Survival]], [[Basics]], [[Nomadic]], [[Householding]], [[Homesteading]], [[Terratory]], [[Self-Dev]], 
+
 ---
 
 

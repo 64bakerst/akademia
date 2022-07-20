@@ -1,5 +1,5 @@
 
-parent:: [[Wellness]], [[Cleanses]]
+root:: [[Cleanses]]
 prev:: [[Digestive Aid Cleanse]]
 next:: [[Candida Cleanse]]
 
@@ -13,6 +13,26 @@ next:: [[Candida Cleanse]]
 
 - Recommended: [https://drclarkstore.com/products/parasite-cleanse-by-dr-hulda-clark/](https://drclarkstore.com/products/parasite-cleanse-by-dr-hulda-clark/)
 - "Light Weight" [https://www.renewlife.ca/product/renew-life-paragone-15-day-anti-parasite-cleansing-program/](https://www.renewlife.ca/product/renew-life-paragone-15-day-anti-parasite-cleansing-program/)
+
+## Combination Tincture
+
+- [Nature's Answer](https://www.naturesanswer.com/product/cb-black-walnut-wormwood-1oz/) - $16/oz - 1:1 Herb Strength Ratio ***Most Potent***
+	- Alcohol-free
+	- Clove
+	- [[Black Walnut Hull]]
+	- Sweet Annie
+	- Wormwood
+- [Gaia Herbs](https://www.gaiaherbs.com/products/wormwood-black-walnut-supreme) - $18/oz -  1:2.5 Herb Strength Ratio
+	- Alcohol USP 53-63% 
+	- Made in NC, USA
+	- [[Black Walnut Hull]] (green hull) Extract * *Green Hull is more potent*
+	- Organic Sweet [[Wormwood]]
+	- Pomegranate
+	- Coptis Root
+	- Organic [[Gentian]] Root
+	- Clove flower bud
+	- Organic [[Ginger]] Root
+- 
 
 --- 
 
@@ -203,7 +223,7 @@ Pre-made: [https://drclarkstore.com/products/raz-caps-500-mg-100-capsules](https
 1 capsule per day - 500mg/c
 
 **Ingredients**
-- [[Pumpkin seed]] (Cucurbita pepo)
+- [[Pumpkin Seed]] (Cucurbita pepo)
 - [[Garlic]] (Allium sativum)
 - Cramp Bark (Viburnum opulus)
 - [[Cayenne]] (Capsicum annuum)
@@ -308,18 +328,21 @@ Ingredients - Essential Oils
 - 
 
 ## Fruits
-- #Pineapple 
-	- try 2 juiced pineapples
-	- Contains bromalin, boosts the intestinal track, reacts with the protein of the parasite body - it breaks down the peptide’s bonds of parasites, causes cuticle damage in worms, leading to loss of motility and death. Incorporating pineapples into your diet helps to slowly erode the protective layer of these bugs so that they are easier for your immune system to fight and eliminate.
-	-  bromelain-rich fresh pineapple juice is able to decrease production of the proinflammatory cytokines that lead to colon inflammation
-	- Because bromelain is a protein-digesting enzyme (proteolytic), it is also an extremely valuable digestive aid that helps us break down protein foods. When the protein you eat is not properly broken down into amino acids (which would be the case in those with low HCL or insufficient digestive enzymes), you’re missing out on key building blocks that act as precursors for neurotransmitters.
-- #Papaya
-	- adds significant fiber to your body to sweep away many parasites that cling to the walls of the intestines.
-	- contains papain, digestive enzymes, which condition the tummy making it hostile to bacteria and parasite.
-- #Papaya_Seeds
-	- the seeds of papaya contains more papain than the flesh
-	- highly rich in anti-helminthic and anti-amoebic properties that effectively protect your body from many parasites.
-	- more effective when consumed in conjunction with honey.
+
+#### [[Pineapple]]
+- try 2 juiced pineapples
+- Contains bromalin, boosts the intestinal track, reacts with the protein of the parasite body - it breaks down the peptide’s bonds of parasites, causes cuticle damage in worms, leading to loss of motility and death. Incorporating pineapples into your diet helps to slowly erode the protective layer of these bugs so that they are easier for your immune system to fight and eliminate.
+-  bromelain-rich fresh pineapple juice is able to decrease production of the proinflammatory cytokines that lead to colon inflammation
+- Because bromelain is a protein-digesting enzyme (proteolytic), it is also an extremely valuable digestive aid that helps us break down protein foods. When the protein you eat is not properly broken down into amino acids (which would be the case in those with low HCL or insufficient digestive enzymes), you’re missing out on key building blocks that act as precursors for neurotransmitters.
+
+#### [[Papaya]]
+- adds significant fiber to your body to sweep away many parasites that cling to the walls of the intestines.
+- contains papain, digestive enzymes, which condition the tummy making it hostile to bacteria and parasite.
+
+#### [[Papaya Seeds]]
+- the seeds of papaya contains more papain than the flesh
+- highly rich in anti-helminthic and anti-amoebic properties that effectively protect your body from many parasites.
+- more effective when consumed in conjunction with honey.
 - #Coconut
 - #Coconut_Oil 
 	- Virgin coconut oil [has Lauric and fatty acids](https://www.hsph.harvard.edu/nutritionsource/food-features/coconut-oil/#:~:text=Fat%20is%20made%20up%20of,to%20raise%20harmful%20LDL%20levels.) which are dubbed as a very good anti-viral, anti-bacterial, anti-fungal, and anti-parasitic. 
@@ -356,6 +379,7 @@ Ingredients - Essential Oils
 
 
 ### [[Thyme]]
+![[Thyme#Tea]]
 
 ### [[Red Clover]] - Cleanse Blood
 
@@ -383,7 +407,7 @@ Ingredients - Essential Oils
 
 ### Cholorophyll
 
-### Diatomaceous Earth
+### [[Diatomaceous Earth]]
 
 ### [[Neem]]
 
