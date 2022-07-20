@@ -1,6 +1,6 @@
 
-parent:: [[Nutrition]]
-child:: [[For Energy]]
+root:: [[Nutrition]]
+sub:: [[For Energy]]
 
 ---
 

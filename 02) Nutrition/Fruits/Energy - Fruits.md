@@ -1,3 +1,5 @@
----
-parent: '[[Nutrition]]'
+
+
+root:: [[Nutrition]]
+
 ---

@@ -1,4 +1,4 @@
-parent:: [[0 - Water]]
+root:: [[0 - Water]]
 prev:: [[4 - Disinfection]]
 
 ---

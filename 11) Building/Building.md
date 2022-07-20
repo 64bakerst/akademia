@@ -1,5 +1,5 @@
----
-parent: '[[Area of Interest]]'
-child: '[[Whitling]]'
+root:: [[Area of Interest]]
+sub:: [[Whittling]]
+
 ---
 

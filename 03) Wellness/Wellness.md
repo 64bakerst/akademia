@@ -1,6 +1,6 @@
 
-parent:: [[Area of Interest]]
-child:: [[Body]], [[Ailments]], [[Fitness]], [[Beauty]], [[Medicine]]
+root:: [[Area of Interest]]
+sub:: [[Body]], [[Ailments]], [[Fitness]], [[Beauty]], [[Medicine]]
 
 
 ---

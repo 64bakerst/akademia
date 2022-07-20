@@ -1,7 +1,8 @@
 root:: [[Herb]]
 Rel:: [[Sweet Annie]], [[Wormwood]]
-
+Common Name:: Common Mugwort
 Botanical name:: Artemisia vulgaris
+Genus:: [[Artemisia]]
 
 **Plant Type**:: Herbaceous perennial
 **Mature Size**:: Up to 6 feet tall
@@ -15,6 +16,8 @@ Botanical name:: Artemisia vulgaris
 
 ---
 
+
+All parts of the plant contain [essential oils](https://en.wikipedia.org/wiki/Essential_oil "Essential oil") with all-purpose insecticidal properties (especially in the killing of insect [larvae](https://en.wikipedia.org/wiki/Larvae "Larvae")).
 
 # Growing
 - https://www.thespruce.com/how-to-grow-mugwort-5077403

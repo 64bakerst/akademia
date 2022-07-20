@@ -1,5 +1,5 @@
 Root:: [[Herb]]
-Rel:: [[Wormwood]], [[Mugwort]]
+Rel:: [[Wormwood]], [[Mugworts]]
 Botanical Name:: artemisia annua
 Common Name:: Sweet Annie, Sweet Wormwood
 

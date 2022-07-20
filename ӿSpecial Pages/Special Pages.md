@@ -1,3 +1,3 @@
-parent:: [[Contents]]
+root:: [[Contents]]
 
 ---

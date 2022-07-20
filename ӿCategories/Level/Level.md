@@ -1,6 +1,6 @@
 
-parent:: [[Category]]
-child:: [[Survival]], [[Basics]], [[Nomadic]], [[Householding]], [[Homesteading]], [[Terratory]], [[Self-Dev]], 
+root:: [[Category]]
+sub:: [[Survival]], [[Basics]], [[Nomadic]], [[Householding]], [[Homesteading]], [[Terratory]], [[Self-Dev]], 
 
 ---
 

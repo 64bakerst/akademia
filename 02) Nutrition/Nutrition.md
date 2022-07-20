@@ -1,6 +1,6 @@
 
-parent::[[Area of Interest]]
-child:: [[Building Blocks - Minerals]], [[Recipe]], [[Storage - Fats]], [[Grounding - Vegetables]], [[Cell Structure - Protein]] 
+root::[[Area of Interest]]
+sub:: [[Building Blocks - Minerals]], [[Recipe]], [[Storage - Fats]], [[Grounding - Vegetables]], [[Cell Structure - Protein]] 
 
 ---
 

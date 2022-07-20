@@ -1,1 +1,1 @@
-parent:: [[Body]], [[Beauty]]
+root:: [[Body]], [[Beauty]]

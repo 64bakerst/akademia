@@ -1,5 +1,5 @@
 
-parent:: [[Area of Interest]]
+root:: [[Area of Interest]]
 next:: [[1 - Collection]]
 
 - [[1 - Collection]]

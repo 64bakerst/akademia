@@ -1,3 +1,3 @@
-parent:: [[Wellness]]
+root:: [[Wellness]]
 
 ---

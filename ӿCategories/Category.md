@@ -1,10 +1,12 @@
+root:: [[Contents]]
+sub:: [[Level]], [[Area of Interest]]
+
+#SpecialPage 
+
+
+
 ---
 
-child: 
-- '[[Level]]' 
-- '[[Area of Interest]]'
----
-#SpecialPage 
 
 ```breadcrumbs
 type:tree

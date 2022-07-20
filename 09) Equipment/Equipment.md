@@ -1,3 +1,6 @@
----
-parent: '[[Area of Interest]]'
+
+
+
+root:: [[Area of Interest]]
+
 ---

@@ -50,7 +50,7 @@ Contents
       - [[Time]]
     - [[Equipment]]
     - [[Building]]
-      - [[Whitling]]
+      - [[Whittling]]
     - [[Clothing]]
       - [[Single Cloth]]
 - [[Resources]]

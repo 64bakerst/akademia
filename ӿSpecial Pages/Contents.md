@@ -1,7 +1,26 @@
+Contents
+- [[Glossary]]
+- [[Resources]]
+- [[Category]]
+  - [[Level]]
+    - [[Survival]]
+    - [[Basics]]
+    - [[Nomadic]]
+    - [[Householding]]
+    - [[Homesteading]]
+    - [[Terratory]]
+    - [[Self-Dev]]
+  - [[Area of Interest]]
 
-child:: [[Category]], [[Resources]], [[Glossary]]
-
----
-
-![[Table of Contents]]
+Medicine
+- [[Cleanses]]
+  - [[Parasite Cleanse]]
+- [[Herb]]
+  - [[Burdock]]
+  - [[Wormwood]]
+  - [[Black Walnut Hull]]
+  - [[Clove]]
+  - [[Propolis]]
+  - [[Mugworts]]
+  - [[Sweet Annie]]
 

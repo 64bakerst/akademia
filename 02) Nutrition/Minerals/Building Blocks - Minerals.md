@@ -1,5 +1,5 @@
-parent:: [[Nutrition]]
-child:: [[Iodine]], [[Calcium]]
+root:: [[Nutrition]]
+sub:: [[Iodine]], [[Calcium]]
 
 ---
 

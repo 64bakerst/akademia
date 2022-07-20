@@ -1,5 +1,5 @@
 
-parent:: [[Resources]]
+root:: [[Resources]]
 
 ---
 #Resources

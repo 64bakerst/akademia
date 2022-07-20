@@ -1,4 +1,4 @@
-parent:: [[Wellness]]
-child:: [[Teeth]], [[Eyes]], 
+root:: [[Wellness]]
+sub:: [[Teeth]], [[Eyes]]
 
 ---

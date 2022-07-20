@@ -1,5 +1,6 @@
----
-parent: '[[Recipe]]'
+
+root:: [[Recipe]]
+
 ---
 #energy #food #recipe #coffee #mct #brain #brainfood
 
