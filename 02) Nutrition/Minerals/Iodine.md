@@ -1,8 +1,40 @@
 #minerals #purification #water 
 
+root:: [[Building Blocks - Minerals]]
 
- # Effects
--
+
+---
+
+
+
+# Benefits
+-  Iodine kills the bacteria in water by disrupting the ionic balance within the pathogenic cells. It replaces the chemicals necessary for the bacteria or virus to thrive with iodide ions. ^wygyub
+
+Iodine tablets and drops are a very popular choice for various reasons:
+-   kills most viruses and bacteria with little effort
+-   more effective and quicker than chlorine
+
+
+1.  **Filtering your water to remove the larger pieces of debris prior to adding the iodine is ideal.** Pathogens tend to cling to large particles so removing them makes the iodine more effective, faster. You don’t want to drink chunks of stuff anyway.
+
+# Precautions
+- The lethal dose of free iodine for an adult human of 2 to 3 grams (2000-3000 mg) free iodine represents 40 to 60 mL (less than 2 fluid ounces) of 5% Lugol's solution.
+- **Iodine only kills living pathogens.** If water is contaminated with poisons such as fertilizers or pesticides, [heavy metals](https://www.survivopedia.com/svpbananafilter/), certain parasites, radiation, or other forms of toxins, iodine isn’t going to help.
+- Iodine, like chlorine and bromine, is a "halogen" - its Atomic number is 53 on the periodic element chart - All halogens are TOXIC.
+-  Iodine, as all Halogens, is ineffective for treatment of water infected with parasitic worm eggs
+-  not effective against parasitic worm eggs and larvae.
+-  not effective against Cryptosporidium – a waterborne, disease spreading protozoan that contaminates drinking water supplies, causing intestinal infections in human beings and domestic animals.
+- has a low to moderate effect against Giardia lamblia - a  protozoan parasite that colonizes and reproduces in the small intestine, causing diarrheal illness known as giardiasis.
+- tastes bad - some people counter the taste by adding vitamin C, but you must be sure to add the vitamin C after the iodine has had time to be effective,  Vitamin C is a de-halogen and can actually neutralize the iodine's ability to purify your water
+- not recommended for use by pregnant women or individuals with thyroid problems.
+- Iodine Allergy - Some people are allergic to iodine - if you're allergic to shell fish you probably shouldn't use this method of water purification.  Symptoms of allergic reaction can vary from a runny nose and itchy, watery eyes to anaphylactic shock.
+- does not remove or neutralize agricultural and industrial chemicals, or heavy metals from water.
+- can react with certain contaminants causing residual chemicals or byproducts in drinking water after treatment is complete
+- effectiveness depends on the water temperature - iodine disperses slower in colder water
+- can lose effectiveness after a certain amount of time.  Exposure to heat, humidity, moisture, and air will reduce the effectiveness of iodine tablets.
+
+
+
 
 # Sources
 - Supplement
