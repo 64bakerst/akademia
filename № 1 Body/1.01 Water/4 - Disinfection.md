@@ -3,7 +3,7 @@ alias: [Purification]
 ---
 
 
-root:: [[1.1 Water]]
+root:: [[1.01 Water]]
 prev:: [[3 - Distillation]]
 next:: [[5 - Filtration]]
 

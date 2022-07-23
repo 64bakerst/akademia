@@ -1,6 +1,6 @@
 #minerals #purification #water 
 
-root:: [[Building Blocks - Minerals]]
+root:: [[Minerals - Building Blocks]]
 
 
 DOSAGE:: Between 50 - 250 mg per day

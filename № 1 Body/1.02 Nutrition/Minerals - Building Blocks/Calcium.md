@@ -1,4 +1,4 @@
-root:: [[Building Blocks - Minerals]]
+root:: [[Minerals - Building Blocks]]
 
 ---
 

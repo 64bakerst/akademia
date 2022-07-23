@@ -1,7 +1,9 @@
+root:: [[1.02 Nutrition]]
+rel:: [[Vegetables - Grounding]]
 
 
 root:: [[1.02 Nutrition]]
-rel:: [[Energy - Fruits]], [[Storage - Fats]], [[Building Blocks - Minerals]], [[Grounding - Vegetables]]
+
 
 
 ---

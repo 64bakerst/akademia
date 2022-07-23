@@ -1,4 +1,4 @@
-root:: [[Regulators - Vitamins]]
+root:: [[Vitamins - Regulators]]
 
 
 ---
