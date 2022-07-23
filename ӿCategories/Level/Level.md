@@ -1,6 +1,6 @@
 
-root:: [[Category]]
-sub:: [[Survival]], [[Basics]], [[Nomadic]], [[Householding]], [[Homesteading]], [[Terratory]], [[Self-Dev]], 
+root:: [[Level]]
+sub:: [[Survival]], [[Basics]], [[Nomadic]], [[Householding]], [[Homesteading]], [[Terratory]], [[Self-Dev]]
 
 ---
 

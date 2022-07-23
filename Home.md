@@ -4,9 +4,9 @@
 Welcome
 
 Important Links:
+- [[ӿSpecial Pages/Table of Contents]]
 - [[Table of Contents]]
-- [[Category]]
-- [[Area of Interest]]
+- [[№ 1 Body]]
 - [[Level]]
 - [[Special Pages]]
 - [[Glossary]]

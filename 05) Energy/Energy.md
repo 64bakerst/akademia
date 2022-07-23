@@ -1,5 +1,0 @@
----
-child: 
-- '[[Fire]]'
-- '[[Electric]]'
----
