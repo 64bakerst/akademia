@@ -41,6 +41,20 @@ FOOTER = ""
 ROOT_SECTION_NAME = "main"
 # (Optional) visjs graph options. Can remove if desired.
 GRAPH_OPTIONS = """
+// Highlight current node and set to center
+if (curr_node) {
+	nodes.update({
+		id: curr_node.id,
+		value: Math.max(4, max_node_val * 2.5),
+		shape: "dot",
+		color: "#a6a7ed",
+		font: {
+			strokeWidth: 1,
+		},
+		x: 0,
+		y: 0,
+	});
+}
         {
         	nodes: {
         		shape: "dot",
