@@ -30,7 +30,7 @@ GANALYTICS = ""
 # (Optional, default true) Slugify URLs. Put "" to disable.
 SLUGIFY = "y"
 # (Optional, default true) Shows knowledge graph on home page. Put "" to disable.
-HOME_GRAPH = ""
+HOME_GRAPH = "y"
 # (Optional, default true) Shows knowledge graph on every page. Put "" to disable.
 PAGE_GRAPH = "y"
 # (Optional, default false) Whether sidebar sections should be collapsed by default.
