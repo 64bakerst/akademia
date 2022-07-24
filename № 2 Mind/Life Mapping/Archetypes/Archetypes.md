@@ -1,3 +1,5 @@
+root:: [[Archetypes]]
+
 - ![image.png](../assets/image_1655973212514_0.png)
 -
 -

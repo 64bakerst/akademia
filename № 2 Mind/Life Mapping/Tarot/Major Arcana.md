@@ -1,4 +1,4 @@
-title:: Tarot/Major Arcana
+root:: [[Tarot]]
 
 - Number	Name
   	

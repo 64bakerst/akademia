@@ -1,4 +1,7 @@
-- ![Numerology.pdf](../assets/Numerology.pdf)
+
+root:: [[Life Mapping]]
+
+- ![[Numerology.pdf]]
 -
 -
 - # Traditional

@@ -1,4 +1,4 @@
-title:: Tarot/Readings
+root:: [[Tarot]]
 
 -
 - Shuffling

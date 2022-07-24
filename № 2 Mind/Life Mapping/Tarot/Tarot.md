@@ -1,7 +1,8 @@
--
--
--
--
+root:: [[Life Mapping]]
+
+
+
+
 - # Tarot + Greek
   collapsed:: true
 	- • The Fool – Dionysos

@@ -1,4 +1,4 @@
-title:: Tarot/Questions
+root:: [[Tarot]]
 
 -
 -

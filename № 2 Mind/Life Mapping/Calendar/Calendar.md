@@ -1,3 +1,9 @@
+root:: [[Life Mapping]]
+
+---
+
+- 
+- 
 - Mondays - Mystery School Monday, Mystic Mondays, Music Mondays, Muse Mondays
   Tuesdays - Teacher Tuesdays, Tea Tuesdays, 
   Wednesdays - Witch Wednesdays, Wizard Wednesdays , worship wednesdays, otherwordly wednesdays, 

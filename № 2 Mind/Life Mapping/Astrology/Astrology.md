@@ -1,7 +1,14 @@
--
--
-- ![Astrology - 12 Zodiac Signs.pdf](../assets/Astrology - 12 Zodiac Signs.pdf)
-- ![Astrology - Cusp.pdf](../assets/Astrology - Cusp.pdf)
+root:: [[Life Mapping]]
+
+---
+
+
+
+![[Astrology - 12 Zodiac Signs.pdf]]
+
+
+
+- ![[Astrology - Cusp.pdf]]
 - ![Astrology - Moon Signs.pdf](../assets/Astrology - Moon Signs.pdf)
 - ![Astrology - Moon Compatability.pdf](../assets/Astrology - Moon Compatability.pdf)
 - ![Astrology - Rising Signs.pdf](../assets/Astrology - Rising Signs.pdf)
