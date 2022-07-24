@@ -1,0 +1,7 @@
+root:: [[Shamanism]]
+
+
+---
+
+
+![[Crystals.pdf]]
