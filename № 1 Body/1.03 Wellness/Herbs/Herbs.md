@@ -10,6 +10,12 @@ sub:: [[Valerian]]
 sub:: [[Uva Ursi]]
 sub:: [[Goldenrod]]
 sub:: [[Tumeric]]
+sub:: [[Ashwagandha]]
+sub:: [[Dandelion]]
+sub:: [[Nettle]]
+
+
+
 
 
 

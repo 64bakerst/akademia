@@ -1,4 +1,4 @@
-root:: [[Herb]]
+root:: [[Herbs]]
 
 **Botanical Name**::  _Arcrtium lappa_
 **Common Name**::  Burdock, greater burdock, common burdock, gobo
@@ -13,7 +13,7 @@ root:: [[Herb]]
 Antifungal 
 
 Good for:: [[Candida]] 
-Traditional Health Benefits of Gentian:: [[Digestive Support]] [[Immune Support]] [[Liver & Cleanse Support]] [[Beauty & Radiance Support]]
+Traditional Health Benefits of Gentian:: [[Digestive System]] [[Immune System]] [[Liver & Cleanse Support]] [[Beauty & Radiance Support]]
 
 
 ---

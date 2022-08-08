@@ -6,6 +6,10 @@ prev:: [[4 - Disinfection]]
 #water 
 
 
+https://truthaboutfluoride.com/water-filters-that-remove-fluoride/
+
+
+
 # Survival
 - #### Nature-based gravity filter
 	- Images

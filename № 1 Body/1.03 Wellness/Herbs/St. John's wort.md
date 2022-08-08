@@ -1,4 +1,4 @@
-root:: [[Herb]]
+root:: [[Herbs]]
 
 Botanical Name:: Hypericum perforatum
 Russian:: зверобой

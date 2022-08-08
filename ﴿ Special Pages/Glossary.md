@@ -1,1 +1,1 @@
-root:: [[Contents]]
+root:: [[Table of Contents]]

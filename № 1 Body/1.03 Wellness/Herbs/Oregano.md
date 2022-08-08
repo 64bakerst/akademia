@@ -1,4 +1,8 @@
-root:: [[Herb]]
+---
+alias: [Oregano Oil]
+---
+
+root:: [[Herbs]]
 
 
 ---

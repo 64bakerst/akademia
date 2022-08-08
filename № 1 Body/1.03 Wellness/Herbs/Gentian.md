@@ -1,7 +1,7 @@
-root:: [[Herb]]
+root:: [[Herbs]]
 genus:: [[Gentiana]]
 
-Traditional Health Benefits of Gentian:: [[Digestive Support]] [[Liver & Cleanse Support]]
+Traditional Health Benefits of Gentian:: [[Digestive System]] [[Liver & Cleanse Support]]
 
 
 

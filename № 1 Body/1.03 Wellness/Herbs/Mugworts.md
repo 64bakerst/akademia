@@ -1,4 +1,4 @@
-root:: [[Herb]]
+root:: [[Herbs]]
 Rel:: [[Sweet Annie]], [[Wormwood]]
 Common Name:: Common Mugwort
 Botanical name:: Artemisia vulgaris

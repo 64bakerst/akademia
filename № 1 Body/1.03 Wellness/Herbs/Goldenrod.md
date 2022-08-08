@@ -1,4 +1,4 @@
-root:: [[Herb]]
+root:: [[Herbs]]
 family::[[Asteraceae]]
 
 **Botanical Name**:: _Solidago_ spp.

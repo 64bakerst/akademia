@@ -1,5 +1,5 @@
 
-root:: [[Herb]]
+root:: [[Herbs]]
 
 
 

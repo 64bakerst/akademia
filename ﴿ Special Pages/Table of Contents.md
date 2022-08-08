@@ -69,7 +69,7 @@ Contents
   - [[Medicine]]
     - [[Cleanses]]
       - [[Parasite Cleanse]]
-    - [[Herb]]
+    - [[Herbs]]
       - [[Burdock]]
       - [[Wormwood]]
       - [[Black Walnut Hull]]

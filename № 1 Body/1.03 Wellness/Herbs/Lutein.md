@@ -3,9 +3,23 @@ root::[[Carotenoids]]
 
 ---
 
+# Max Dose
+- No set maximum
+- A dose of lutein 5 mg/day is widely used. AMD trials have used lutein 10 to 20 mg/day for 3 to 6 months or longer. [source](https://www.drugs.com/npp/lutein.html)
+- 10 mg of lutein and 2 mg of zeaxanthin appear to be effective in studies, but further research is needed to identify the optimal dosage for health. [source](https://www.healthline.com/nutrition/lutein-and-zeaxanthin#dosage)
+
+
+
+
+
+
+# Benefits
 - anti-inflammatory properties.
 - known to improve or even prevent age-related macular disease which is the leading cause of blindness and vision impairment
 
+
+# Precautions
+- Lutein and zeaxanthin are overall safe to supplement at the recommended doses, but skin yellowing may occur over time.
 
 
 # Where to Buy

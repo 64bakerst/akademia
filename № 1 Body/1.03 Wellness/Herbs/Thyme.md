@@ -1,4 +1,4 @@
-root:: [[Herb]]
+root:: [[Herbs]]
 
 **Botanical Name**:: _Thymus vulgaris_
 **Common Name**:: Thyme, Common Thyme, Garden Thyme, English Thyme
@@ -10,7 +10,7 @@ root:: [[Herb]]
 **Hardiness Zones**:: 5 to 9 (USDA)
 **Native Area**:: Mediterranean
 
-Traditional Health Benefits of Thyme:: [[Digestive Support]] [[Immune Support]]
+Traditional Health Benefits of Thyme:: [[Digestive System]] [[Immune System]]
 
 ---
 

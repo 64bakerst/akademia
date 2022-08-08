@@ -1,4 +1,4 @@
-root:: [[Herb]]
+root:: [[Herbs]]
 Botanical:: Artemisia absinthium
 Russian:: горький полынь
 Genus:: [[Artemisia]]

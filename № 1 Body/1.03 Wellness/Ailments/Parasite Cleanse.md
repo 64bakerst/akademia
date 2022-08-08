@@ -7,6 +7,8 @@ next:: [[Candida Cleanse]]
 
 # The Cleanse
 
+It is 1/4 teaspoon. The Black-Walnut is fine, it doses 1/2 teaspoon per day. You also need to add 1/4 teaspoon ground cloves to your treatment. You will dose 1/4 teaspoon Wormwood , 1/2 teaspoon Black-Walnut and 1/4 teaspoon cloves per day. If you can't bear the taste, try putting the powdered herbs into a spoonful of honey or molasses and swallow followed by juice or water. Do this for 30 days then stop. Wait 6 months and do it again.
+
 ## Pre-Made Kits
 
 **Ideal for beginners**
@@ -94,6 +96,17 @@ The dosages below are the generally safe daily doses. If you want intensive sche
 --- 
 
 # Protocols
+
+### Dr. Axe 
+
+-   Black walnut (250 milligrams 3x daily) — Has been [used historically](https://www.ncbi.nlm.nih.gov/pubmed/23163769) for the treatment of parasites.
+-   [Wormwood](https://draxe.com/nutrition/wormwood/) (200 milligrams 3x daily) — It’s known for its anti-parasitic properties.
+-   Oregano oil (500 milligrams 4x daily) — Oregano oil [has both antibacterial](https://www.ncbi.nlm.nih.gov/pubmed/10815019) and anti-parasitic effects.
+-   Grapefruit seed extract (take as directed) — Has been shown to [have antimicrobial properties](https://pubmed.ncbi.nlm.nih.gov/12165191/) against a wide range of organisms.
+-   Clove oil (500 milligrams 4x daily or 4 cups of tea) — [Contains high amounts](https://pubmed.ncbi.nlm.nih.gov/24161990/) of eugenol, a compound that has been shown to help kill harmful organisms.
+-   [Probiotics](https://draxe.com/nutrition/probiotics-benefits-foods-supplements/) (1 or 2 capsules daily) — These “good guy” bacteria help repopulate the gut with microbes that support digestive health.
+
+Most experts recommend you do about two weeks of a parasite cleanse, taking the supplements above, then take a week off. After your one-week break, jump back into the plan for two more weeks.
 
 
 ### Dr. Clark's Schedule
@@ -298,19 +311,34 @@ Ingredients - Essential Oils
 -  one of the richest natural sources of magnesium
 	- a magnesium-deficient diet is associated with higher intestinal inflammation. This diet also led to a decline in the quantity of _bifidobacteria_, a crucial species of the human microbiome that is responsible for everything from producing B vitamins to protecting the gut from harmful pathogens.
 - [Pumpkin seeds paralyze worms](https://superfoodprofiles.com/pumpkin-seeds-parasites-intestinal-worms "Pumpkin Seeds and Parasites – Getting Rid of Human Intestinal Worms with Pumpkin Seeds") in the lower intestine and add to the effectiveness of the papaya seed actions.
+- The University of Maryland Medical Center recommends the use of pumpkin seeds to get rid of intestinal worms. A compound called cucurbitacin in pumpkin seeds has anti-parasitic properties that can paralyze the parasites. This in turn prevents them from holding on to the intestine wall and they soon are eliminated from the body.
+
+-   Add two tablespoons of peeled and crushed pumpkin seeds to three cups of boiling water. Let it steep for 30 minutes. Allow it to cool, and then drink it. Try to fast for a day and drink the juice of boiled dry prunes to help cleanse the intestines before taking the pumpkin seed infusion.
+-   Mix together one tablespoon of roasted and crushed pumpkin seeds with an equal amount of honey. Eat this mixture each morning on an empty stomach for a week. Then include a laxative food like a banana or kiwi in your breakfast.
 
 
 #### [[Sunflower Seeds]]
 - flush out parasites by [preventing successful germination or penetration](http://www.ncbi.nlm.nih.gov/pubmed/11604462) of the parasite to the host system.
 - naturally rich in vitamin E, and research finds that vitamin E can help improve immune resistance to nematode infection in livestock. ([16](https://web.uri.edu/sheepngoat/vitamine/), [17](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5622016/))
 
+#### Carom Seeds
+
+Carom seeds can be used to treat intestinal worms. The thymol content in carom seeds has the ability to inhibit the growth of undesired parasites in the intestine. According to Ayurveda, carom seeds and jaggery should be used together for the treatment of intestinal worms.
+
+
 ## Bulb
 #### Onions
 - Onions contain various sulfur metabolites that help inhibit compounds inside parasites necessary for its survival. ([11](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6023319/))
- ### Garlic 
+
+
+#### [[Garlic]] 
 - For best results, chop up garlic and let it sit for several minutes so it can release its beneficial, microbe-fighting compounds.
 - richness of sulfur compounds such as alliin, allicin, diallyl sulfide, and ajoene which are antibiotic (destroys pathogenic organisms), antilipidemic (reduces the amount of fat in the bloodstream), antithrombotic (decreases the formation of blood clots), and anti-carcinogenic (helps arrest the development of cancer)
 - Germanium is found in very small quantities (5-10 parts per million) in the earth’s crust, but it is concentrated in plants – especially those known for building immunity! For example, garlic contains 754 ppm of germanium, ginseng contains 250-320 ppm, comfrey contains 152 ppm, and aloe vera 77 ppm. Germanium plays a key role in the circulation of oxygen to the body’s tissues, and stimulates our natural killer (NK) cells which help fight and prevent cancer. [source](https://www.regenerativenutrition.com/content.asp?id=442)
+- Garlic is a popular anti-parasitic food that can help deal with any type of intestinal worms. Raw garlic has sulfur-containing amino acids that are anti-parasitic in nature. Plus, the antibacterial, antifungal and antiseptic properties in garlic help kill microbes in the body.
+
+-   Eating three cloves of raw garlic on an empty stomach every day for one week is one of the simplest ways to get rid of all types of intestinal worms.
+-   Alternatively, you can boil two crushed garlic cloves in one-half cup of milk and drink it on an empty stomach. Do this for about a week.
 
 ## Vegetables
 
@@ -338,12 +366,26 @@ Ingredients - Essential Oils
 #### [[Papaya]]
 - adds significant fiber to your body to sweep away many parasites that cling to the walls of the intestines.
 - contains papain, digestive enzymes, which condition the tummy making it hostile to bacteria and parasite.
+- Unripe papaya has been used widely in Ayurvedic medicine for many ailments, including intestinal worms. The latex from unripe papaya fruit is rich in the enzyme papain, which has anthelmintic properties that can effectively destroy intestinal worms. Plus, papaya seeds contain a substance called caricin that can help expel intestinal worms.
+
+-   Mix one tablespoon each of fresh raw papaya juice and honey with three or four tablespoons of hot water. Drink it in the morning on an empty stomach. After two hours, follow it with a glass of warm milk with two tablespoons of castor oil mixed in it. Follow the treatment for two to three days. When using this remedy for children, reduce the dosage to half.
+-   You can also grind papaya seeds into powder form. Mix two teaspoons of this powder with one cup of warm milk or water. Drink it first thing in the morning on an empty stomach for three days.
+-   Alternatively, you can [make a smoothie](http://www.top10homeremedies.com/home-remedies/home-remedies-detoxification.html) by grinding papaya seeds taken from an average-sized papaya, adding to it one tablespoon of coconut oil, one cup of coconut milk and chunks of papaya fruit (turning green to yellow), and blending again. Finally, mix one tablespoon of honey and blend again until smooth. Drink it daily in the morning at least for one week.
 
 #### [[Papaya Seeds]]
 - the seeds of papaya contains more papain than the flesh
 - highly rich in anti-helminthic and anti-amoebic properties that effectively protect your body from many parasites.
 - more effective when consumed in conjunction with honey.
-- #Coconut
+
+
+
+#### [[Coconut]]
+Coconut is a very effective remedy for expelling all types of intestinal worms. It acts as a very strong anti-parasitic agent. Both the fruit and oil can be used to treat intestinal worms.
+
+-   Eat one tablespoon of crushed coconut with your breakfast. After three hours, drink one glass of warm milk with two tablespoons of castor oil mixed in it. Repeat this process daily until the infestation disappears. Castor oil, though, is not recommended for individuals suffering from gastrointestinal disease and children below five years of age.
+-   Also, eat four to six tablespoons of extra virgin coconut oil daily. [This oil is loaded with medium-chain triglycerides](http://www.top10homeremedies.com/kitchen-ingredients/top-10-health-benefits-coconut-oil.html) that help expel parasites from your body and also boost the immune system to fight against them.
+
+
 - #Coconut_Oil 
 	- Virgin coconut oil [has Lauric and fatty acids](https://www.hsph.harvard.edu/nutritionsource/food-features/coconut-oil/#:~:text=Fat%20is%20made%20up%20of,to%20raise%20harmful%20LDL%20levels.) which are dubbed as a very good anti-viral, anti-bacterial, anti-fungal, and anti-parasitic. 
 	- medium-chain-fatty acids are able to  destroy candida (harmful yeast)  and kill the intestinal parasite Giardia, which is responsible for causing diarrhea. ([15](https://www.ncbi.nlm.nih.gov/pubmed/15991042))
@@ -362,6 +404,18 @@ Ingredients - Essential Oils
 
 
 ## Herbs
+
+#### [[Oregano|Oregano Oil]]
+
+ In a study published in _Phytotherapy Research_, adults who were infected with three different types of parasites were treated with 600 mg of oil of oregano a day. After six weeks, **parasites were totally eradicated in 72 percent of the participants**; 23 percent greatly decreased their parasite load.
+
+Because researchers think that oil of oregano gets its anti-parasitical powers from carvacrol, be sure to use oil standardized to at least 65 percent carvacrol.
+
+-   anise
+-   barberry
+-   berberine
+-   mint
+-   goldthread
 
 ### [[Wormwood]]
 
@@ -410,6 +464,9 @@ Ingredients - Essential Oils
 ### [[Diatomaceous Earth]]
 
 ### [[Neem]]
+Antibacterial, antifungal and antiviral, neem has been used in India for thousands of years to reliably kill parasites both internal and external. The neem tree, scientifically known as Azadirachta indica, is native to India, where it serves so many medicinal purposes that it is often referred to as “the village pharmacy.”
+
+One of neem’s assets is that it not only kills parasites, but also removes the toxins they leave behind as they are dying. This detoxifying property of neem also makes it a boon to the liver, which is often compromised by parasitic infection.
 
 
 
@@ -421,4 +478,30 @@ Ingredients - Essential Oils
 -   Pork – Can potentially be contaminated with parasites.
 
 
+
+---
+
+
+# Citations
+
+- https://draxe.com/health/parasite-cleanse/
+- https://www.naturalhealth365.com/intestinal-parasites-2084.html
+
+[http://www.curezone.org/forums/am.asp?i=757646](http://www.curezone.org/forums/am.asp?i=757646)  
+
+[http://www.curezone.org/forums/fm.asp?i=475763#i](http://www.curezone.org/forums/fm.asp?i=475763#i)  
+
+[http://www.curezone.org/forums/am.asp?i=1795146](http://www.curezone.org/forums/am.asp?i=1795146)  
+
+[http://www.curezone.org/forums/am.asp?i=1996419](http://www.curezone.org/forums/am.asp?i=1996419)  
+
+[http://www.curezone.org/forums/search.asp?q=wormwood+powder&action=CureZone+Search&f=336](http://www.curezone.org/forums/search.asp?q=wormwood+powder&action=CureZone+Search&f=336)
+
+[http://www.curezone.org/forums/fm.asp?i=1456656#i](http://www.curezone.org/forums/fm.asp?i=1456656#i)  
+
+[http://www.curezone.org/forums/fm.asp?i=1753422#i](http://www.curezone.org/forums/fm.asp?i=1753422#i)  
+
+[http://www.curezone.org/forums/fm.asp?i=2074858#i](http://www.curezone.org/forums/fm.asp?i=2074858#i)  
+
+[http://www.curezone.org/forums/fm.asp?i=1504423#i](http://www.curezone.org/forums/fm.asp?i=1504423#i)
 
